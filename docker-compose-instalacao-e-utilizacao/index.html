@@ -9,17 +9,17 @@
   <meta name="description" content="O Docker Compose é uma ferramenta que permite definir e executar ambientes do Docker com vários contêineres. Pode configurar seus serviços de aplicativo em um arquivo de composição e, em seguida, ini">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Docker Compose - Instalação e utilização.">
-<meta property="og:url" content="https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/index.html">
+<meta property="og:url" content="https://opensourcesolution.com.br/docker-compose-instalacao-e-utilizacao/index.html">
 <meta property="og:site_name" content="Open Source Solution">
 <meta property="og:description" content="O Docker Compose é uma ferramenta que permite definir e executar ambientes do Docker com vários contêineres. Pode configurar seus serviços de aplicativo em um arquivo de composição e, em seguida, ini">
 <meta property="og:locale" content="pt_BR">
-<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/docker_compose_logo.png">
-<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/docker_compose_install_adminer.png">
-<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/docker_lista_conteiner_adminer.png">
-<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/login_adminer.png">
-<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/docker_compose_stop_adminer.png">
-<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/docker_compose_start_adminer.png">
-<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/docker_compose_remove_adminer.png">
+<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/docker_compose_logo.png">
+<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/docker_compose_install_adminer.png">
+<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/docker_lista_conteiner_adminer.png">
+<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/login_adminer.png">
+<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/docker_compose_stop_adminer.png">
+<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/docker_compose_start_adminer.png">
+<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/docker_compose_remove_adminer.png">
 <meta property="article:published_time" content="2018-03-22T01:31:18.000Z">
 <meta property="article:modified_time" content="2021-12-09T20:00:46.379Z">
 <meta property="article:author" content="Jackson de Oliveira">
@@ -28,7 +28,7 @@
 <meta property="article:tag" content="images">
 <meta property="article:tag" content="virtualização">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://opensourcesolution.github.io/images/posts/docker_compose/docker_compose_logo.png">
+<meta name="twitter:image" content="https://opensourcesolution.com.br/images/posts/docker_compose/docker_compose_logo.png">
   
     <link rel="alternate" href="/atom.xml" title="Open Source Solution" type="application/atom+xml">
   
@@ -82,7 +82,7 @@
         <a id="nav-search-btn" class="nav-icon" title="Buscar"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Buscar"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://opensourcesolution.github.io"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Buscar"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://opensourcesolution.com.br"></form>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
       
         <p><img src="/images/posts/docker_compose/docker_compose_logo.png" title="Docker logo"></p>
 <p>O Docker Compose é uma ferramenta que permite definir e executar ambientes do Docker com vários contêineres. Pode configurar seus serviços de aplicativo em um arquivo de composição e, em seguida, iniciar e interromper todos os serviços desse arquivo. Os arquivos  de configuração devem ser criados com extensões <strong>.yml</strong> ou <strong>.yaml</strong> para que possa ser lido. Neste post aprenderemos a instalar e configurar o Docker Compose, e realizaremos a instalação de dois contêineres utilizando a ferramenta.</p>
-<h4 id="Instalacao"><a href="#Instalacao" class="headerlink" title="Instalação"></a>Instalação</h4><p>Pré-requisitos: <a target="_blank" rel="noopener" href="https://opensourcesolution.com.br/docker-obtenha-conteineres-de-seus-aplicativos/">Docker</a>, <a target="_blank" rel="noopener" href="https://opensourcesolution.com.br/debian-8-jessie-instalacao/">Debian 64bits</a></p>
+<h4 id="Instalacao"><a href="#Instalacao" class="headerlink" title="Instalação"></a>Instalação</h4><p>Pré-requisitos: <a href="https://opensourcesolution.com.br/docker-obtenha-conteineres-de-seus-aplicativos/">Docker</a>, <a href="https://opensourcesolution.com.br/debian-8-jessie-instalacao/">Debian 64bits</a></p>
 <p>O Docker Compose deve ser baixado do site do projeto no Github. O comando abaixo realiza o download e move-o para a pasta /usr/bin. Lembrando que em primeiro lugar é necessário ter instalado o Docker Engine.</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># curl -L https://github.com/docker/compose/releases/download/1.19.0/docker-compose-`uname -s`-`uname -m` -o /usr/bin/docker-compose</span></span><br></pre></td></tr></table></figure>
 
@@ -170,9 +170,9 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/" data-id="ckx5j9lbg001i4rjc6p3xd2ju" data-title="Docker Compose - Instalação e utilização." class="article-share-link">Compartilhar</a>
+      <a data-url="https://opensourcesolution.com.br/docker-compose-instalacao-e-utilizacao/" data-id="ckx5js76p001i5cjc3bam9mms" data-title="Docker Compose - Instalação e utilização." class="article-share-link">Compartilhar</a>
       
-        <a href="https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/#disqus_thread" class="article-comment-link">Comentários</a>
+        <a href="https://opensourcesolution.com.br/docker-compose-instalacao-e-utilizacao/#disqus_thread" class="article-comment-link">Comentários</a>
       
       
       
@@ -311,7 +311,7 @@
 <script>
   var disqus_shortname = 'opensourcesolution';
   
-  var disqus_url = 'https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/';
+  var disqus_url = 'https://opensourcesolution.com.br/docker-compose-instalacao-e-utilizacao/';
   
   (function(){
     var dsq = document.createElement('script');
