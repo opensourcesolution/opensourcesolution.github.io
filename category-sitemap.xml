@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://opensourcesolution.com.br/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Qt/</loc>
+        <lastmod>2021-12-14T12:40:41.628Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Shell-Script/</loc>
+        <lastmod>2021-12-13T16:35:18.817Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Programacao/</loc>
+        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Eclipse/</loc>
+        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Linux-Mint/</loc>
+        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Linux/</loc>
+        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/IDE-s/</loc>
+        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Ubuntu/</loc>
+        <lastmod>2021-12-13T16:26:09.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/LibreOffice/</loc>
+        <lastmod>2021-12-13T16:15:07.131Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Debian/</loc>
+        <lastmod>2021-12-13T16:10:42.100Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Seamonkey/</loc>
+        <lastmod>2021-12-13T16:02:23.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Mozilla/</loc>
+        <lastmod>2021-12-13T16:02:23.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Firefox/</loc>
+        <lastmod>2021-12-13T16:02:23.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/MariaDB/</loc>
+        <lastmod>2021-12-13T15:51:53.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Redes/</loc>
+        <lastmod>2021-12-13T15:40:52.375Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Thunderbird/</loc>
+        <lastmod>2021-12-13T15:30:27.810Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Java/</loc>
+        <lastmod>2021-12-13T15:17:38.781Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Apache/</loc>
+        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Gimp/</loc>
+        <lastmod>2021-12-13T14:26:39.410Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/SQLite3/</loc>
+        <lastmod>2021-12-13T14:16:38.235Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Banco-de-Dados/</loc>
+        <lastmod>2021-12-13T14:16:38.235Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/NetBeans/</loc>
+        <lastmod>2021-12-13T14:11:58.305Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Iptables/</loc>
+        <lastmod>2021-12-13T13:50:08.935Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Terminal-Linux/</loc>
+        <lastmod>2021-12-13T13:44:47.013Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Samba-4/</loc>
+        <lastmod>2021-12-12T04:56:44.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/KVM/</loc>
+        <lastmod>2021-12-12T04:41:28.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Virtualizacao/</loc>
+        <lastmod>2021-12-12T04:41:28.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/OTRS/</loc>
+        <lastmod>2021-12-12T04:19:38.420Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Android/</loc>
+        <lastmod>2021-12-12T01:47:02.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/pfSense/</loc>
+        <lastmod>2021-12-12T00:50:24.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Firewall/</loc>
+        <lastmod>2021-12-12T00:50:24.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Zabbix/</loc>
+        <lastmod>2021-12-12T00:13:26.705Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Impressora/</loc>
+        <lastmod>2021-12-11T23:43:36.886Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Guacamole/</loc>
+        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Acesso-remoto/</loc>
+        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/BIND-9/</loc>
+        <lastmod>2021-12-11T20:50:23.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Editores/</loc>
+        <lastmod>2021-12-11T18:57:27.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Git/</loc>
+        <lastmod>2021-12-11T18:44:24.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Sistema-Operacional/</loc>
+        <lastmod>2021-12-11T18:20:51.325Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Node-js/</loc>
+        <lastmod>2021-12-11T17:22:42.297Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Javascript/</loc>
+        <lastmod>2021-12-11T17:22:42.297Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Android-Studio/</loc>
+        <lastmod>2021-12-11T16:41:34.050Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Openfire/</loc>
+        <lastmod>2021-12-11T01:40:45.245Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Spark/</loc>
+        <lastmod>2021-12-10T23:59:35.659Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/GitLab/</loc>
+        <lastmod>2021-12-10T23:41:51.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Endian/</loc>
+        <lastmod>2021-12-10T23:20:06.006Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Drivers/</loc>
+        <lastmod>2021-12-10T22:44:16.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Puppet/</loc>
+        <lastmod>2021-12-10T22:06:09.911Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/MySQL-Workbench/</loc>
+        <lastmod>2021-12-10T21:53:53.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Apache-Tomcat/</loc>
+        <lastmod>2021-12-10T21:32:23.830Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/GlassFish4/</loc>
+        <lastmod>2021-12-10T20:35:53.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Xdedug/</loc>
+        <lastmod>2021-12-10T19:50:51.449Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Asterisk/</loc>
+        <lastmod>2021-12-10T19:14:49.650Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Backports/</loc>
+        <lastmod>2021-12-10T18:21:53.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Proxmox/</loc>
+        <lastmod>2021-12-10T17:58:45.671Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Composer/</loc>
+        <lastmod>2021-12-10T03:26:36.998Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Crontab/</loc>
+        <lastmod>2021-12-10T03:06:06.282Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/LimeSurvey/</loc>
+        <lastmod>2021-12-10T02:46:43.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Joomla/</loc>
+        <lastmod>2021-12-10T01:51:56.625Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Streaming/</loc>
+        <lastmod>2021-12-10T00:29:45.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/MySQL/</loc>
+        <lastmod>2021-12-10T00:21:22.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Antivirus/</loc>
+        <lastmod>2021-12-09T23:59:34.986Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Pendrive/</loc>
+        <lastmod>2021-12-09T23:44:40.141Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Veyon/</loc>
+        <lastmod>2021-12-09T23:18:50.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/PyCharm/</loc>
+        <lastmod>2021-12-09T22:41:21.645Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Laravel/</loc>
+        <lastmod>2021-12-09T22:23:00.159Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Framework/</loc>
+        <lastmod>2021-12-09T22:23:00.159Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/OwnCloud/</loc>
+        <lastmod>2021-12-09T22:05:17.462Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Nuvem/</loc>
+        <lastmod>2021-12-09T22:05:17.462Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/E-Commerce/</loc>
+        <lastmod>2021-12-09T21:07:28.089Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Docker/</loc>
+        <lastmod>2021-12-09T20:19:42.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Docker-Compose/</loc>
+        <lastmod>2021-12-09T20:00:46.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/KeePass-2/</loc>
+        <lastmod>2021-12-09T19:40:07.325Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/VS-Code/</loc>
+        <lastmod>2021-12-09T17:57:03.622Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Cacti/</loc>
+        <lastmod>2021-12-09T15:59:03.519Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Anuncios/</loc>
+        <lastmod>2021-12-09T15:54:17.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Arduino/</loc>
+        <lastmod>2021-12-09T14:56:45.330Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Signal/</loc>
+        <lastmod>2021-12-09T14:16:07.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Webmail/</loc>
+        <lastmod>2021-12-09T13:57:31.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->

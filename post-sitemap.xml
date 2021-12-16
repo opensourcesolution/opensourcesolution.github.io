@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://opensourcesolution.com.br/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+
+    <url>
+        <loc>https://opensourcesolution.com.br/qt5-designer-no-ubuntu-mint/</loc>
+        <lastmod>2021-12-14T12:40:41.628Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/criando-seu-primeiro-script-em-shell/</loc>
+        <lastmod>2021-12-13T16:35:18.817Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instalando-o-eclipse-no-linux-mint/</loc>
+        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/download-linux-mint-17-3-rosa/</loc>
+        <lastmod>2021-12-13T16:26:09.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/libreoffice-5-instalacao-via-ppa/</loc>
+        <lastmod>2021-12-13T16:15:07.131Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instalando-virtualbox-5-no-linux-mint-17/</loc>
+        <lastmod>2021-12-13T16:10:42.100Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/seamonkey-um-navegador-quatro-em-um/</loc>
+        <lastmod>2021-12-13T16:02:23.511Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instale-o-spotify-no-ubuntu/</loc>
+        <lastmod>2021-12-13T15:58:39.793Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/mariadb-substituto-para-o-mysql/</loc>
+        <lastmod>2021-12-13T15:51:53.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/nmap-comandos-essenciais/</loc>
+        <lastmod>2021-12-13T15:40:52.375Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/configurar-conta-de-email-no-thunderbird/</loc>
+        <lastmod>2021-12-13T15:30:27.810Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instalando-java-9-no-debian/</loc>
+        <lastmod>2021-12-13T15:17:38.781Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/apache-web-server-no-mint-ubuntu/</loc>
+        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/piwik-alternativa-ao-google-analytics/</loc>
+        <lastmod>2021-12-13T14:52:28.453Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/gimp-2-gnu-image-manipulation-program/</loc>
+        <lastmod>2021-12-13T14:26:39.410Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/sqlite-3-no-ubuntu-linux-mint-debian/</loc>
+        <lastmod>2021-12-13T14:16:38.235Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/netbeans-8-1-ubuntu-mint-debian/</loc>
+        <lastmod>2021-12-13T14:11:58.305Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/comandos-basicos-linux/</loc>
+        <lastmod>2021-12-13T13:58:06.889Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/iptables-liberando-portas/</loc>
+        <lastmod>2021-12-13T13:50:08.935Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/corrigir-erro-trava-lock/</loc>
+        <lastmod>2021-12-13T13:44:47.013Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/exemplo-de-programa-em-java/</loc>
+        <lastmod>2021-12-13T13:41:15.284Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/gambas-3-tao-facil-como-visual-basic/</loc>
+        <lastmod>2021-12-13T13:37:56.849Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tipos-primitivos-programacao-java/</loc>
+        <lastmod>2021-12-13T13:27:40.329Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/samba-4-compilacao-instalacao-e-provisionamento/</loc>
+        <lastmod>2021-12-12T04:56:44.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/virtual-machine-manager-gerencie-suas-maquinas-virtuais/</loc>
+        <lastmod>2021-12-12T04:41:28.916Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/otrs-helpdesk-open-source/</loc>
+        <lastmod>2021-12-12T04:19:38.420Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/telegram-uma-alternativa-ao-whatsapp/</loc>
+        <lastmod>2021-12-12T01:47:02.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/operadores-programacao-java/</loc>
+        <lastmod>2021-12-12T01:08:51.589Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/pfsense-2-3-instalacao/</loc>
+        <lastmod>2021-12-12T00:50:24.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/sqlite3-criando-um-banco-de-dados/</loc>
+        <lastmod>2021-12-12T00:27:08.950Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/zabbix-3-instalacao/</loc>
+        <lastmod>2021-12-12T00:13:26.705Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/hplip-3-16-5-drivers-para-sua-impressora-hp/</loc>
+        <lastmod>2021-12-11T23:43:36.886Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/compactar-e-descompactar-arquivos-no-linux/</loc>
+        <lastmod>2021-12-11T23:20:54.279Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/guacamole-acesso-remoto-de-qualidade/</loc>
+        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/corrigir-particao-ntfs-no-debian/</loc>
+        <lastmod>2021-12-11T21:38:03.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/bind-9-instalacao-e-configuracao/</loc>
+        <lastmod>2021-12-11T20:50:23.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/brackets-um-editor-moderno/</loc>
+        <lastmod>2021-12-11T18:57:27.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/git-instalacao-e-configuracao-com-github/</loc>
+        <lastmod>2021-12-11T18:44:24.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/debian-8-jessie-instalacao/</loc>
+        <lastmod>2021-12-11T18:20:51.325Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/localizar-arquivos-no-centos-7/</loc>
+        <lastmod>2021-12-11T17:30:33.118Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/node-js-no-debian-e-ubuntu/</loc>
+        <lastmod>2021-12-11T17:22:42.297Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/android-studio-no-debian-e-ubuntu/</loc>
+        <lastmod>2021-12-11T16:41:34.050Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/github-como-convidar-colaboradores/</loc>
+        <lastmod>2021-12-11T03:18:52.884Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/openfire-4-0-3-no-debian-8/</loc>
+        <lastmod>2021-12-11T01:40:45.245Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/openfire-criando-usuarios-e-grupos/</loc>
+        <lastmod>2021-12-11T01:16:38.322Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/spark-instalacao-e-integracao-com-openfire/</loc>
+        <lastmod>2021-12-10T23:59:35.659Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/gitlab-instalacao-no-centos-7/</loc>
+        <lastmod>2021-12-10T23:41:51.867Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/gerenciador-sybase-gui-ubuntu-e-linux-mint/</loc>
+        <lastmod>2021-12-10T23:21:41.596Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/firewall-endian-3-2-instalacao/</loc>
+        <lastmod>2021-12-10T23:20:06.006Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/driver-wireless-ralink-rt3290/</loc>
+        <lastmod>2021-12-10T22:44:16.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/gerenciador-de-banco-linux-dominio-sistemas/</loc>
+        <lastmod>2021-12-10T22:26:20.157Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/puppet-4-4-2-instalacao-e-configuracao-part-01/</loc>
+        <lastmod>2021-12-10T22:06:09.911Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instalar-mysql-workbench-no-linux/</loc>
+        <lastmod>2021-12-10T21:53:53.726Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instalacao-apache-tomcat-8-5-no-debian-8/</loc>
+        <lastmod>2021-12-10T21:32:23.830Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instalando-glassfish4-no-debian/</loc>
+        <lastmod>2021-12-10T20:35:53.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/xdebug-no-netbeans-com-php-7/</loc>
+        <lastmod>2021-12-10T19:50:51.449Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/instalando-freepbx-13-no-debian-8/</loc>
+        <lastmod>2021-12-10T19:14:49.650Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/debian-backports-versoes-mais-atualizadas/</loc>
+        <lastmod>2021-12-10T18:21:53.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/terminal-linux-desativar-beep/</loc>
+        <lastmod>2021-12-10T18:08:26.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/proxmox-ve-5-virtualizacao-para-sua-empresa/</loc>
+        <lastmod>2021-12-10T17:58:45.671Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/composer-instalacao-e-configuracao/</loc>
+        <lastmod>2021-12-10T03:26:36.998Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/crontab-agendando-tarefas-no-linux/</loc>
+        <lastmod>2021-12-10T03:06:06.282Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/limesurvey-tenha-seu-servidor-proprio-de-pesquisas/</loc>
+        <lastmod>2021-12-10T02:46:43.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/joomla-instale-este-super-cms-no-debian-9/</loc>
+        <lastmod>2021-12-10T01:51:56.625Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/como-instalar-o-obs-open-broadcaster-software/</loc>
+        <lastmod>2021-12-10T00:29:45.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/mariadb-resetar-senha-do-usuario-root/</loc>
+        <lastmod>2021-12-10T00:21:22.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/clamav-o-antivirus-para-o-seu-linux/</loc>
+        <lastmod>2021-12-09T23:59:34.986Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/multisystem-crie-seu-pendrive-bootavel/</loc>
+        <lastmod>2021-12-09T23:44:40.141Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/veyon-gerencie-sua-sala-de-aula/</loc>
+        <lastmod>2021-12-09T23:18:50.300Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/pycharm-uma-ide-leve-para-python/</loc>
+        <lastmod>2021-12-09T22:41:21.645Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/laravel-instale-um-poderoso-framework-php/</loc>
+        <lastmod>2021-12-09T22:23:00.159Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/owncloud-tenha-seu-proprio-servidor-cloud/</loc>
+        <lastmod>2021-12-09T22:05:17.462Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/prestashop-tenha-sua-propria-loja-virtual/</loc>
+        <lastmod>2021-12-09T21:07:28.089Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/docker-obtenha-conteineres-de-seus-aplicativos/</loc>
+        <lastmod>2021-12-09T20:19:42.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/docker-compose-instalacao-e-utilizacao/</loc>
+        <lastmod>2021-12-09T20:00:46.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/keepass-2-38-gerencie-suas-senhas/</loc>
+        <lastmod>2021-12-09T19:40:07.325Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/visual-studio-code-instalacao-e-configuracao/</loc>
+        <lastmod>2021-12-09T17:57:03.622Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/cacti-no-debian-9/</loc>
+        <lastmod>2021-12-09T15:59:03.519Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/criacao-de-sites/</loc>
+        <lastmod>2021-12-09T15:54:17.742Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/arduino-ide-compilacao-e-instalacao/</loc>
+        <lastmod>2021-12-09T14:56:45.330Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/comandos-indispensaveis-do-git/</loc>
+        <lastmod>2021-12-09T14:40:44.525Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/signal-uma-alternativa-para-o-whatsapp/</loc>
+        <lastmod>2021-12-09T14:16:07.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/</loc>
+        <lastmod>2021-12-09T13:57:31.606Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/ativar-modulo-rewrite-web-apache/</loc>
+        <lastmod>2021-12-09T13:23:36.612Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
