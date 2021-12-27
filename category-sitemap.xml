@@ -9,6 +9,27 @@
 
 
     <url>
+        <loc>https://opensourcesolution.com.br/categories/NetBeans/</loc>
+        <lastmod>2021-12-27T03:56:27.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Programacao/</loc>
+        <lastmod>2021-12-27T03:56:27.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/categories/Java/</loc>
+        <lastmod>2021-12-27T03:56:27.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://opensourcesolution.com.br/categories/Ubuntu/</loc>
         <lastmod>2021-12-18T21:38:33.850Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -79,13 +100,6 @@
     </url>
 
     <url>
-        <loc>https://opensourcesolution.com.br/categories/Programacao/</loc>
-        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://opensourcesolution.com.br/categories/Eclipse/</loc>
         <lastmod>2021-12-13T16:31:33.061Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -149,13 +163,6 @@
     </url>
 
     <url>
-        <loc>https://opensourcesolution.com.br/categories/Java/</loc>
-        <lastmod>2021-12-13T15:17:38.781Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://opensourcesolution.com.br/categories/Gimp/</loc>
         <lastmod>2021-12-13T14:26:39.410Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -172,13 +179,6 @@
     <url>
         <loc>https://opensourcesolution.com.br/categories/Banco-de-Dados/</loc>
         <lastmod>2021-12-13T14:16:38.235Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/categories/NetBeans/</loc>
-        <lastmod>2021-12-13T14:11:58.305Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
