@@ -3,6 +3,146 @@
 
 
     <url>
+        <loc>https://opensourcesolution.com.br/tags/web/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/ubuntu/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/site/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/servidor/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/server/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/php5/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/apache2/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/linux/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/programacao/</loc>
+        <lastmod>2021-12-18T16:55:06.733Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/java/</loc>
+        <lastmod>2021-12-18T16:55:06.733Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/ide/</loc>
+        <lastmod>2021-12-18T16:55:06.733Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/android/</loc>
+        <lastmod>2021-12-18T16:55:06.733Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/rewrite/</loc>
+        <lastmod>2021-12-17T01:37:46.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/remoto/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/remote/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/desktop/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/apache/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/acesso/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/mint/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/tags/debian/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://opensourcesolution.com.br/tags/Qt5-Designer/</loc>
         <lastmod>2021-12-14T12:40:41.628Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,13 +171,6 @@
     </url>
 
     <url>
-        <loc>https://opensourcesolution.com.br/tags/linux/</loc>
-        <lastmod>2021-12-13T16:35:18.817Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://opensourcesolution.com.br/tags/framework/</loc>
         <lastmod>2021-12-13T16:31:33.061Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,27 +180,6 @@
     <url>
         <loc>https://opensourcesolution.com.br/tags/eclipse/</loc>
         <lastmod>2021-12-13T16:31:33.061Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/java/</loc>
-        <lastmod>2021-12-13T16:31:33.061Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/mint/</loc>
-        <lastmod>2021-12-13T16:26:09.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/ubuntu/</loc>
-        <lastmod>2021-12-13T16:26:09.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -151,13 +263,6 @@
 
     <url>
         <loc>https://opensourcesolution.com.br/tags/maquina/</loc>
-        <lastmod>2021-12-13T16:10:42.100Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/debian/</loc>
         <lastmod>2021-12-13T16:10:42.100Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,55 +395,6 @@
     </url>
 
     <url>
-        <loc>https://opensourcesolution.com.br/tags/android/</loc>
-        <lastmod>2021-12-13T15:17:38.781Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/web/</loc>
-        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/site/</loc>
-        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/servidor/</loc>
-        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/server/</loc>
-        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/php5/</loc>
-        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/apache2/</loc>
-        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://opensourcesolution.com.br/tags/piwik/</loc>
         <lastmod>2021-12-13T14:52:28.453Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -360,13 +416,6 @@
     </url>
 
     <url>
-        <loc>https://opensourcesolution.com.br/tags/apache/</loc>
-        <lastmod>2021-12-13T14:52:28.453Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://opensourcesolution.com.br/tags/gimp/</loc>
         <lastmod>2021-12-13T14:26:39.410Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -382,13 +431,6 @@
 
     <url>
         <loc>https://opensourcesolution.com.br/tags/netbeans/</loc>
-        <lastmod>2021-12-13T14:11:58.305Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/programacao/</loc>
         <lastmod>2021-12-13T14:11:58.305Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -424,13 +466,6 @@
 
     <url>
         <loc>https://opensourcesolution.com.br/tags/gamba3/</loc>
-        <lastmod>2021-12-13T13:37:56.849Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/ide/</loc>
         <lastmod>2021-12-13T13:37:56.849Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -635,41 +670,6 @@
     <url>
         <loc>https://opensourcesolution.com.br/tags/7z/</loc>
         <lastmod>2021-12-11T23:20:54.279Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/remoto/</loc>
-        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/remote/</loc>
-        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/Llinux/</loc>
-        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/desktop/</loc>
-        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/acesso/</loc>
-        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1888,13 +1888,6 @@
     <url>
         <loc>https://opensourcesolution.com.br/tags/imap/</loc>
         <lastmod>2021-12-09T13:57:31.606Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/tags/rewrite/</loc>
-        <lastmod>2021-12-09T13:23:36.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

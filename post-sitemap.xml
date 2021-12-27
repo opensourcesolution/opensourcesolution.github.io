@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://opensourcesolution.com.br/apache-web-server-no-mint-ubuntu/</loc>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/android-studio-no-debian-e-ubuntu/</loc>
+        <lastmod>2021-12-18T16:55:06.733Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/ativar-modulo-rewrite-web-apache/</loc>
+        <lastmod>2021-12-17T01:37:46.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://opensourcesolution.com.br/guacamole-acesso-remoto-de-qualidade/</loc>
+        <lastmod>2021-12-16T18:54:12.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://opensourcesolution.com.br/qt5-designer-no-ubuntu-mint/</loc>
         <lastmod>2021-12-14T12:40:41.628Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -99,14 +131,6 @@
     <url>
         <loc>https://opensourcesolution.com.br/instalando-java-9-no-debian/</loc>
         <lastmod>2021-12-13T15:17:38.781Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/apache-web-server-no-mint-ubuntu/</loc>
-        <lastmod>2021-12-13T15:10:43.938Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -273,14 +297,6 @@
     </url>
 
     <url>
-        <loc>https://opensourcesolution.com.br/guacamole-acesso-remoto-de-qualidade/</loc>
-        <lastmod>2021-12-11T22:10:27.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://opensourcesolution.com.br/corrigir-particao-ntfs-no-debian/</loc>
         <lastmod>2021-12-11T21:38:03.471Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -331,14 +347,6 @@
     <url>
         <loc>https://opensourcesolution.com.br/node-js-no-debian-e-ubuntu/</loc>
         <lastmod>2021-12-11T17:22:42.297Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/android-studio-no-debian-e-ubuntu/</loc>
-        <lastmod>2021-12-11T16:41:34.050Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -667,14 +675,6 @@
     <url>
         <loc>https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/</loc>
         <lastmod>2021-12-09T13:57:31.606Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://opensourcesolution.com.br/ativar-modulo-rewrite-web-apache/</loc>
-        <lastmod>2021-12-09T13:23:36.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

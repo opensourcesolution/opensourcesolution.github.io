@@ -4,17 +4,22 @@
 
     <sitemap>
         <loc>https://opensourcesolution.com.br/post-sitemap.xml</loc>
-        <lastmod>2021-12-14T12:40:41.628Z</lastmod>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://opensourcesolution.com.br/page-sitemap.xml</loc>
+        <lastmod>2021-12-27T03:33:57.642Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://opensourcesolution.com.br/category-sitemap.xml</loc>
-        <lastmod>2021-12-14T12:40:41.628Z</lastmod>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://opensourcesolution.com.br/tag-sitemap.xml</loc>
-        <lastmod>2021-12-14T12:40:41.628Z</lastmod>
+        <lastmod>2021-12-18T21:38:33.850Z</lastmod>
     </sitemap>
 
 </sitemapindex>
