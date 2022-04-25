@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://opensourcesolution.com.br/sitemap.xml
-Sitemap: https://opensourcesolution.com.br/post-sitemap.xml
-Sitemap: https://opensourcesolution.com.br/page-sitemap.xml
-Sitemap: https://opensourcesolution.com.br/category-sitemap.xml
-Sitemap: https://opensourcesolution.com.br/tag-sitemap.xml
+Sitemap: https://opensourcesolution.github.io/sitemap.xml
+Sitemap: https://opensourcesolution.github.io/post-sitemap.xml
+Sitemap: https://opensourcesolution.github.io/page-sitemap.xml
+Sitemap: https://opensourcesolution.github.io/category-sitemap.xml
+Sitemap: https://opensourcesolution.github.io/tag-sitemap.xml

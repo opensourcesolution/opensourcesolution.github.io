@@ -28,17 +28,17 @@
         <meta name="description" content="Roundcube é uma solução de webmail gratuita e de código aberto com uma interface desktop-like, fácil de instalar e configurar. As skins usam os padrões da web mais recentes para renderizar uma interf">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Roundcube - Instalação e Configuração no Debian 9">
-<meta property="og:url" content="https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/index.html">
+<meta property="og:url" content="https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/index.html">
 <meta property="og:site_name" content="Open Source Solution">
 <meta property="og:description" content="Roundcube é uma solução de webmail gratuita e de código aberto com uma interface desktop-like, fácil de instalar e configurar. As skins usam os padrões da web mais recentes para renderizar uma interf">
 <meta property="og:locale" content="pt_BR">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcube_logo.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcube_pendencias.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcube_config_continue.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcube_test_config.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcude_teste_imap.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcude_teste_smtp.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcube_login.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcube_logo.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcube_pendencias.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcube_config_continue.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcube_test_config.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcude_teste_imap.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcude_teste_smtp.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcube_login.png">
 <meta property="article:published_time" content="2019-12-23T11:37:24.000Z">
 <meta property="article:modified_time" content="2021-12-09T13:57:31.606Z">
 <meta property="article:author" content="Jackson de Oliveira">
@@ -51,7 +51,7 @@
 <meta property="article:tag" content="smtp">
 <meta property="article:tag" content="webmail">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://opensourcesolution.com.br/images/posts/roundcube/roundcube_logo.png">
+<meta name="twitter:image" content="https://opensourcesolution.github.io/images/posts/roundcube/roundcube_logo.png">
           
             <link rel="alternate" href="/atom.xml" title="Open Source Solution" type="application/atom+xml">
               
@@ -104,7 +104,7 @@
         <a id="nav-search-btn" class="nav-icon" title="Buscar"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Buscar"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://opensourcesolution.com.br"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Buscar"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://opensourcesolution.github.io"></form>
       </div>
     </div>
   </div>
@@ -139,7 +139,7 @@
 <li>  Servidor IMAP com suporte IMAP 4 rev 1.</li>
 <li>Servidor SMTP.<br>  Veja a lista completa <a target="_blank" rel="noopener" href="https://github.com/roundcube/roundcubemail/wiki/Install-Requirements">clicando aqui</a>.</li>
 </ul>
-<p><strong>01 -</strong> Download do pacote completo e descompactação na raiz do <a href="https://opensourcesolution.com.br/apache-web-server-no-mint-ubuntu/">apache</a>.</p>
+<p><strong>01 -</strong> Download do pacote completo e descompactação na raiz do <a target="_blank" rel="noopener" href="https://opensourcesolution.com.br/apache-web-server-no-mint-ubuntu/">apache</a>.</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># wget -c https://github.com/roundcube/roundcubemail/releases/download/1.4.1/roundcubemail-1.4.1-complete.tar.gz</span><br><span class="line"># tar -xvf roundcubemail-1.4.1-complete.tar.gz -C /var/www/html</span><br><span class="line"># mv roundcubemail-1.4.1/ roundcubemail</span><br><span class="line"># chown www-data: -R roundcubemail</span><br></pre></td></tr></table></figure>
 <span id="more"></span>
 <p><strong>01.1 -</strong> Permissão de escrita nas pastas abaixo:</p>
@@ -162,7 +162,7 @@
 <p><strong>05 -</strong> Acesse agora pelo navegador <strong><a target="_blank" rel="noopener" href="http://ip_do_servidor/roundcubemail/installer/">http://ip_do_servidor/roundcubemail/installer/</a></strong></p>
 <p><img src="/images/posts/roundcube/roundcube_pendencias.png" title="image roundcube pendências"></p>
 <p><strong>5.1 -</strong> Clique no botão <strong>[NEXT]</strong> para continuar. Na próxima etapa criaremos o arquivo de configurações. As opções abaixo foram informadas e as demais foram deixadas na sua forma padrão.</p>
-<h5 id="General-Configuration"><a href="#General-Configuration" class="headerlink" title="General Configuration"></a>General Configuration</h5><p><strong>product_name:</strong> “Roundcube Webmail”<br><strong>support_url:</strong> mailto:<a href="mailto:&#99;&#x6f;&#x6e;&#x74;&#x61;&#116;&#x6f;&#64;&#111;&#112;&#101;&#110;&#115;&#x6f;&#x75;&#x72;&#x63;&#101;&#x73;&#x6f;&#108;&#117;&#116;&#105;&#111;&#110;&#x2e;&#x63;&#x6f;&#x6d;&#x2e;&#98;&#x72;">&#99;&#x6f;&#x6e;&#x74;&#x61;&#116;&#x6f;&#64;&#111;&#112;&#101;&#110;&#115;&#x6f;&#x75;&#x72;&#x63;&#101;&#x73;&#x6f;&#108;&#117;&#116;&#105;&#111;&#110;&#x2e;&#x63;&#x6f;&#x6d;&#x2e;&#98;&#x72;</a></p>
+<h5 id="General-Configuration"><a href="#General-Configuration" class="headerlink" title="General Configuration"></a>General Configuration</h5><p><strong>product_name:</strong> “Roundcube Webmail”<br><strong>support_url:</strong> mailto:<a href="mailto:&#99;&#111;&#x6e;&#116;&#x61;&#116;&#111;&#x40;&#x6f;&#x70;&#101;&#x6e;&#x73;&#x6f;&#117;&#114;&#99;&#101;&#115;&#111;&#108;&#x75;&#x74;&#x69;&#x6f;&#110;&#x2e;&#x63;&#x6f;&#109;&#46;&#98;&#x72;">&#99;&#111;&#x6e;&#116;&#x61;&#116;&#111;&#x40;&#x6f;&#x70;&#101;&#x6e;&#x73;&#x6f;&#117;&#114;&#99;&#101;&#115;&#111;&#108;&#x75;&#x74;&#x69;&#x6f;&#110;&#x2e;&#x63;&#x6f;&#109;&#46;&#98;&#x72;</a></p>
 <h5 id="Database-Setup"><a href="#Database-Setup" class="headerlink" title="Database Setup"></a>Database Setup</h5><p><strong>db_dsnw:</strong><br>Database Type: <em>MySQL</em><br>Database server: <em>localhost</em><br>Database name: <em>roundcubemail</em><br>Database user name: <em>roundcube</em><br>Database password: <em>*****</em></p>
 <h5 id="IMAP-Settings"><a href="#IMAP-Settings" class="headerlink" title="IMAP Settings"></a>IMAP Settings</h5><p><strong>default_host:</strong> ssl://imap.gmail.com<br><strong>default_port:</strong> 143<br><strong>username_domain:</strong> *****@gmail.com</p>
 <h5 id="SMTP-Settings"><a href="#SMTP-Settings" class="headerlink" title="SMTP Settings"></a>SMTP Settings</h5><p><strong>smtp_server:</strong> ssl://smtp.gmail.com<br><strong>smtp_port:</strong> 465</p>
@@ -182,9 +182,9 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/" data-id="ckxo6hits0055tgjcdlrrfvlx" data-title="Roundcube - Instalação e Configuração no Debian 9" class="article-share-link">Compartilhar</a>
+      <a data-url="https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/" data-id="cl2e85xa7005610jc1ibh8j5v" data-title="Roundcube - Instalação e Configuração no Debian 9" class="article-share-link">Compartilhar</a>
       
-        <a href="https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/#disqus_thread" class="article-comment-link">Comentários</a>
+        <a href="https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/#disqus_thread" class="article-comment-link">Comentários</a>
       
       
       
@@ -295,7 +295,7 @@
   <div class="outer">
     <div id="footer-info" class="inner">
       
-      &copy; 2021 Jackson de Oliveira<br>
+      &copy; 2022 Jackson de Oliveira<br>
       Desenvolvido por <a href="https://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
@@ -313,7 +313,7 @@
 <script>
   var disqus_shortname = 'opensourcesolution';
   
-  var disqus_url = 'https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/';
+  var disqus_url = 'https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/';
   
   (function(){
     var dsq = document.createElement('script');

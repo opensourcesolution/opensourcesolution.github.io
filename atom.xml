@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Source Solution</title>
-  <icon>https://opensourcesolution.com.br/icon.png</icon>
+  <icon>https://opensourcesolution.github.io/icon.png</icon>
   <subtitle>Aberto para o mundo</subtitle>
-  <link href="https://opensourcesolution.com.br/atom.xml" rel="self"/>
+  <link href="https://opensourcesolution.github.io/atom.xml" rel="self"/>
   
-  <link href="https://opensourcesolution.com.br/"/>
+  <link href="https://opensourcesolution.github.io/"/>
   <updated>2021-12-17T01:37:46.528Z</updated>
-  <id>https://opensourcesolution.com.br/</id>
+  <id>https://opensourcesolution.github.io/</id>
   
   <author>
     <name>Jackson de Oliveira</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Ativar módulo rewrite Web Apache</title>
-    <link href="https://opensourcesolution.com.br/ativar-modulo-rewrite-web-apache/"/>
-    <id>https://opensourcesolution.com.br/ativar-modulo-rewrite-web-apache/</id>
+    <link href="https://opensourcesolution.github.io/ativar-modulo-rewrite-web-apache/"/>
+    <id>https://opensourcesolution.github.io/ativar-modulo-rewrite-web-apache/</id>
     <published>2020-04-27T01:58:47.000Z</published>
     <updated>2021-12-17T01:37:46.528Z</updated>
     
@@ -35,19 +35,19 @@
     
     
     
-    <category term="Apache" scheme="https://opensourcesolution.com.br/categories/Apache/"/>
+    <category term="Apache" scheme="https://opensourcesolution.github.io/categories/Apache/"/>
     
     
-    <category term="apache2" scheme="https://opensourcesolution.com.br/tags/apache2/"/>
+    <category term="apache2" scheme="https://opensourcesolution.github.io/tags/apache2/"/>
     
-    <category term="rewrite" scheme="https://opensourcesolution.com.br/tags/rewrite/"/>
+    <category term="rewrite" scheme="https://opensourcesolution.github.io/tags/rewrite/"/>
     
   </entry>
   
   <entry>
     <title>Qt5 Designer no Ubuntu/Mint</title>
-    <link href="https://opensourcesolution.com.br/qt5-designer-no-ubuntu-mint/"/>
-    <id>https://opensourcesolution.com.br/qt5-designer-no-ubuntu-mint/</id>
+    <link href="https://opensourcesolution.github.io/qt5-designer-no-ubuntu-mint/"/>
+    <id>https://opensourcesolution.github.io/qt5-designer-no-ubuntu-mint/</id>
     <published>2020-04-24T03:43:18.000Z</published>
     <updated>2021-12-14T12:40:41.628Z</updated>
     
@@ -62,19 +62,19 @@
     
     
     
-    <category term="Qt" scheme="https://opensourcesolution.com.br/categories/Qt/"/>
+    <category term="Qt" scheme="https://opensourcesolution.github.io/categories/Qt/"/>
     
     
-    <category term="python" scheme="https://opensourcesolution.com.br/tags/python/"/>
+    <category term="python" scheme="https://opensourcesolution.github.io/tags/python/"/>
     
-    <category term="Qt5 Designer" scheme="https://opensourcesolution.com.br/tags/Qt5-Designer/"/>
+    <category term="Qt5 Designer" scheme="https://opensourcesolution.github.io/tags/Qt5-Designer/"/>
     
   </entry>
   
   <entry>
     <title>Roundcube - Instalação e Configuração no Debian 9</title>
-    <link href="https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/"/>
-    <id>https://opensourcesolution.com.br/roundcube-instalacao-e-configuracao-no-debian-9/</id>
+    <link href="https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/"/>
+    <id>https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/</id>
     <published>2019-12-23T11:37:24.000Z</published>
     <updated>2021-12-09T13:57:31.606Z</updated>
     
@@ -95,31 +95,31 @@
     
     
     
-    <category term="Webmail" scheme="https://opensourcesolution.com.br/categories/Webmail/"/>
+    <category term="Webmail" scheme="https://opensourcesolution.github.io/categories/Webmail/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.com.br/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="debian" scheme="https://opensourcesolution.com.br/tags/debian/"/>
+    <category term="debian" scheme="https://opensourcesolution.github.io/tags/debian/"/>
     
-    <category term="email" scheme="https://opensourcesolution.com.br/tags/email/"/>
+    <category term="email" scheme="https://opensourcesolution.github.io/tags/email/"/>
     
-    <category term="imap" scheme="https://opensourcesolution.com.br/tags/imap/"/>
+    <category term="imap" scheme="https://opensourcesolution.github.io/tags/imap/"/>
     
-    <category term="roundcube" scheme="https://opensourcesolution.com.br/tags/roundcube/"/>
+    <category term="roundcube" scheme="https://opensourcesolution.github.io/tags/roundcube/"/>
     
-    <category term="smtp" scheme="https://opensourcesolution.com.br/tags/smtp/"/>
+    <category term="smtp" scheme="https://opensourcesolution.github.io/tags/smtp/"/>
     
-    <category term="webmail" scheme="https://opensourcesolution.com.br/tags/webmail/"/>
+    <category term="webmail" scheme="https://opensourcesolution.github.io/tags/webmail/"/>
     
   </entry>
   
   <entry>
     <title>Gerenciador Sybase GUI - Ubuntu e Linux Mint</title>
-    <link href="https://opensourcesolution.com.br/gerenciador-sybase-gui-ubuntu-e-linux-mint/"/>
-    <id>https://opensourcesolution.com.br/gerenciador-sybase-gui-ubuntu-e-linux-mint/</id>
+    <link href="https://opensourcesolution.github.io/gerenciador-sybase-gui-ubuntu-e-linux-mint/"/>
+    <id>https://opensourcesolution.github.io/gerenciador-sybase-gui-ubuntu-e-linux-mint/</id>
     <published>2019-10-17T01:18:21.000Z</published>
     <updated>2021-12-10T23:21:41.596Z</updated>
     
@@ -131,27 +131,27 @@
     
     
     
-    <category term="Banco de Dados" scheme="https://opensourcesolution.com.br/categories/Banco-de-Dados/"/>
+    <category term="Banco de Dados" scheme="https://opensourcesolution.github.io/categories/Banco-de-Dados/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="contabil" scheme="https://opensourcesolution.com.br/tags/contabil/"/>
+    <category term="contabil" scheme="https://opensourcesolution.github.io/tags/contabil/"/>
     
-    <category term="dbsrv" scheme="https://opensourcesolution.com.br/tags/dbsrv/"/>
+    <category term="dbsrv" scheme="https://opensourcesolution.github.io/tags/dbsrv/"/>
     
-    <category term="dominiosistemas" scheme="https://opensourcesolution.com.br/tags/dominiosistemas/"/>
+    <category term="dominiosistemas" scheme="https://opensourcesolution.github.io/tags/dominiosistemas/"/>
     
-    <category term="sybase" scheme="https://opensourcesolution.com.br/tags/sybase/"/>
+    <category term="sybase" scheme="https://opensourcesolution.github.io/tags/sybase/"/>
     
-    <category term="banco de dados" scheme="https://opensourcesolution.com.br/tags/banco-de-dados/"/>
+    <category term="banco de dados" scheme="https://opensourcesolution.github.io/tags/banco-de-dados/"/>
     
   </entry>
   
   <entry>
     <title>Signal - Uma alternativa para o Whatsapp</title>
-    <link href="https://opensourcesolution.com.br/signal-uma-alternativa-para-o-whatsapp/"/>
-    <id>https://opensourcesolution.com.br/signal-uma-alternativa-para-o-whatsapp/</id>
+    <link href="https://opensourcesolution.github.io/signal-uma-alternativa-para-o-whatsapp/"/>
+    <id>https://opensourcesolution.github.io/signal-uma-alternativa-para-o-whatsapp/</id>
     <published>2019-07-01T15:46:48.000Z</published>
     <updated>2021-12-09T14:16:07.866Z</updated>
     
@@ -163,27 +163,27 @@
     
     
     
-    <category term="Android" scheme="https://opensourcesolution.com.br/categories/Android/"/>
+    <category term="Android" scheme="https://opensourcesolution.github.io/categories/Android/"/>
     
-    <category term="Signal" scheme="https://opensourcesolution.com.br/categories/Signal/"/>
+    <category term="Signal" scheme="https://opensourcesolution.github.io/categories/Signal/"/>
     
     
-    <category term="android" scheme="https://opensourcesolution.com.br/tags/android/"/>
+    <category term="android" scheme="https://opensourcesolution.github.io/tags/android/"/>
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="mobile" scheme="https://opensourcesolution.com.br/tags/mobile/"/>
+    <category term="mobile" scheme="https://opensourcesolution.github.io/tags/mobile/"/>
     
-    <category term="telegram" scheme="https://opensourcesolution.com.br/tags/telegram/"/>
+    <category term="telegram" scheme="https://opensourcesolution.github.io/tags/telegram/"/>
     
-    <category term="whatsapp" scheme="https://opensourcesolution.com.br/tags/whatsapp/"/>
+    <category term="whatsapp" scheme="https://opensourcesolution.github.io/tags/whatsapp/"/>
     
   </entry>
   
   <entry>
     <title>Comandos indispensáveis do Git</title>
-    <link href="https://opensourcesolution.com.br/comandos-indispensaveis-do-git/"/>
-    <id>https://opensourcesolution.com.br/comandos-indispensaveis-do-git/</id>
+    <link href="https://opensourcesolution.github.io/comandos-indispensaveis-do-git/"/>
+    <id>https://opensourcesolution.github.io/comandos-indispensaveis-do-git/</id>
     <published>2019-06-29T01:09:08.000Z</published>
     <updated>2021-12-09T14:40:44.525Z</updated>
     
@@ -193,23 +193,23 @@
     
     
     
-    <category term="Git" scheme="https://opensourcesolution.com.br/categories/Git/"/>
+    <category term="Git" scheme="https://opensourcesolution.github.io/categories/Git/"/>
     
-    <category term="GitLab" scheme="https://opensourcesolution.com.br/categories/GitLab/"/>
+    <category term="GitLab" scheme="https://opensourcesolution.github.io/categories/GitLab/"/>
     
     
-    <category term="git" scheme="https://opensourcesolution.com.br/tags/git/"/>
+    <category term="git" scheme="https://opensourcesolution.github.io/tags/git/"/>
     
-    <category term="github" scheme="https://opensourcesolution.com.br/tags/github/"/>
+    <category term="github" scheme="https://opensourcesolution.github.io/tags/github/"/>
     
-    <category term="gitlab" scheme="https://opensourcesolution.com.br/tags/gitlab/"/>
+    <category term="gitlab" scheme="https://opensourcesolution.github.io/tags/gitlab/"/>
     
   </entry>
   
   <entry>
     <title>Arduino IDE - Compilação e Instalação.</title>
-    <link href="https://opensourcesolution.com.br/arduino-ide-compilacao-e-instalacao/"/>
-    <id>https://opensourcesolution.com.br/arduino-ide-compilacao-e-instalacao/</id>
+    <link href="https://opensourcesolution.github.io/arduino-ide-compilacao-e-instalacao/"/>
+    <id>https://opensourcesolution.github.io/arduino-ide-compilacao-e-instalacao/</id>
     <published>2019-04-21T05:05:44.000Z</published>
     <updated>2021-12-09T14:56:45.330Z</updated>
     
@@ -221,25 +221,25 @@
     
     
     
-    <category term="Arduino" scheme="https://opensourcesolution.com.br/categories/Arduino/"/>
+    <category term="Arduino" scheme="https://opensourcesolution.github.io/categories/Arduino/"/>
     
     
-    <category term="ide" scheme="https://opensourcesolution.com.br/tags/ide/"/>
+    <category term="ide" scheme="https://opensourcesolution.github.io/tags/ide/"/>
     
-    <category term="java" scheme="https://opensourcesolution.com.br/tags/java/"/>
+    <category term="java" scheme="https://opensourcesolution.github.io/tags/java/"/>
     
-    <category term="programacao" scheme="https://opensourcesolution.com.br/tags/programacao/"/>
+    <category term="programacao" scheme="https://opensourcesolution.github.io/tags/programacao/"/>
     
-    <category term="arduino" scheme="https://opensourcesolution.com.br/tags/arduino/"/>
+    <category term="arduino" scheme="https://opensourcesolution.github.io/tags/arduino/"/>
     
-    <category term="c++" scheme="https://opensourcesolution.com.br/tags/c/"/>
+    <category term="c++" scheme="https://opensourcesolution.github.io/tags/c/"/>
     
   </entry>
   
   <entry>
     <title>Cacti no Debian 9</title>
-    <link href="https://opensourcesolution.com.br/cacti-no-debian-9/"/>
-    <id>https://opensourcesolution.com.br/cacti-no-debian-9/</id>
+    <link href="https://opensourcesolution.github.io/cacti-no-debian-9/"/>
+    <id>https://opensourcesolution.github.io/cacti-no-debian-9/</id>
     <published>2019-04-20T04:56:05.000Z</published>
     <updated>2021-12-09T15:59:03.519Z</updated>
     
@@ -254,27 +254,27 @@
     
     
     
-    <category term="Cacti" scheme="https://opensourcesolution.com.br/categories/Cacti/"/>
+    <category term="Cacti" scheme="https://opensourcesolution.github.io/categories/Cacti/"/>
     
     
-    <category term="redes" scheme="https://opensourcesolution.com.br/tags/redes/"/>
+    <category term="redes" scheme="https://opensourcesolution.github.io/tags/redes/"/>
     
-    <category term="cacti" scheme="https://opensourcesolution.com.br/tags/cacti/"/>
+    <category term="cacti" scheme="https://opensourcesolution.github.io/tags/cacti/"/>
     
-    <category term="mrtg" scheme="https://opensourcesolution.com.br/tags/mrtg/"/>
+    <category term="mrtg" scheme="https://opensourcesolution.github.io/tags/mrtg/"/>
     
-    <category term="ping" scheme="https://opensourcesolution.com.br/tags/ping/"/>
+    <category term="ping" scheme="https://opensourcesolution.github.io/tags/ping/"/>
     
-    <category term="rdtools" scheme="https://opensourcesolution.com.br/tags/rdtools/"/>
+    <category term="rdtools" scheme="https://opensourcesolution.github.io/tags/rdtools/"/>
     
-    <category term="snmp" scheme="https://opensourcesolution.com.br/tags/snmp/"/>
+    <category term="snmp" scheme="https://opensourcesolution.github.io/tags/snmp/"/>
     
   </entry>
   
   <entry>
     <title>Criação de Sites</title>
-    <link href="https://opensourcesolution.com.br/criacao-de-sites/"/>
-    <id>https://opensourcesolution.com.br/criacao-de-sites/</id>
+    <link href="https://opensourcesolution.github.io/criacao-de-sites/"/>
+    <id>https://opensourcesolution.github.io/criacao-de-sites/</id>
     <published>2018-12-11T05:54:44.000Z</published>
     <updated>2021-12-09T15:54:17.742Z</updated>
     
@@ -290,21 +290,21 @@
     
     
     
-    <category term="Anúncios" scheme="https://opensourcesolution.com.br/categories/Anuncios/"/>
+    <category term="Anúncios" scheme="https://opensourcesolution.github.io/categories/Anuncios/"/>
     
     
-    <category term="php" scheme="https://opensourcesolution.com.br/tags/php/"/>
+    <category term="php" scheme="https://opensourcesolution.github.io/tags/php/"/>
     
-    <category term="criação de sites" scheme="https://opensourcesolution.com.br/tags/criacao-de-sites/"/>
+    <category term="criação de sites" scheme="https://opensourcesolution.github.io/tags/criacao-de-sites/"/>
     
-    <category term="wordpress" scheme="https://opensourcesolution.com.br/tags/wordpress/"/>
+    <category term="wordpress" scheme="https://opensourcesolution.github.io/tags/wordpress/"/>
     
   </entry>
   
   <entry>
     <title>PyCharm - Uma IDE leve para Python</title>
-    <link href="https://opensourcesolution.com.br/pycharm-uma-ide-leve-para-python/"/>
-    <id>https://opensourcesolution.com.br/pycharm-uma-ide-leve-para-python/</id>
+    <link href="https://opensourcesolution.github.io/pycharm-uma-ide-leve-para-python/"/>
+    <id>https://opensourcesolution.github.io/pycharm-uma-ide-leve-para-python/</id>
     <published>2018-07-26T08:10:02.000Z</published>
     <updated>2021-12-09T22:41:21.645Z</updated>
     
@@ -319,25 +319,25 @@
     
     
     
-    <category term="Programação" scheme="https://opensourcesolution.com.br/categories/Programacao/"/>
+    <category term="Programação" scheme="https://opensourcesolution.github.io/categories/Programacao/"/>
     
-    <category term="PyCharm" scheme="https://opensourcesolution.com.br/categories/PyCharm/"/>
+    <category term="PyCharm" scheme="https://opensourcesolution.github.io/categories/PyCharm/"/>
     
     
-    <category term="ide" scheme="https://opensourcesolution.com.br/tags/ide/"/>
+    <category term="ide" scheme="https://opensourcesolution.github.io/tags/ide/"/>
     
-    <category term="programacao" scheme="https://opensourcesolution.com.br/tags/programacao/"/>
+    <category term="programacao" scheme="https://opensourcesolution.github.io/tags/programacao/"/>
     
-    <category term="pycharm" scheme="https://opensourcesolution.com.br/tags/pycharm/"/>
+    <category term="pycharm" scheme="https://opensourcesolution.github.io/tags/pycharm/"/>
     
-    <category term="python" scheme="https://opensourcesolution.com.br/tags/python/"/>
+    <category term="python" scheme="https://opensourcesolution.github.io/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>Visual Studio Code - Instalação e Configuração.</title>
-    <link href="https://opensourcesolution.com.br/visual-studio-code-instalacao-e-configuracao/"/>
-    <id>https://opensourcesolution.com.br/visual-studio-code-instalacao-e-configuracao/</id>
+    <link href="https://opensourcesolution.github.io/visual-studio-code-instalacao-e-configuracao/"/>
+    <id>https://opensourcesolution.github.io/visual-studio-code-instalacao-e-configuracao/</id>
     <published>2018-05-05T15:08:56.000Z</published>
     <updated>2021-12-09T17:57:03.622Z</updated>
     
@@ -348,29 +348,29 @@
     
     
     
-    <category term="Editores" scheme="https://opensourcesolution.com.br/categories/Editores/"/>
+    <category term="Editores" scheme="https://opensourcesolution.github.io/categories/Editores/"/>
     
-    <category term="VS Code" scheme="https://opensourcesolution.com.br/categories/VS-Code/"/>
+    <category term="VS Code" scheme="https://opensourcesolution.github.io/categories/VS-Code/"/>
     
     
-    <category term="java" scheme="https://opensourcesolution.com.br/tags/java/"/>
+    <category term="java" scheme="https://opensourcesolution.github.io/tags/java/"/>
     
-    <category term="c++" scheme="https://opensourcesolution.com.br/tags/c/"/>
+    <category term="c++" scheme="https://opensourcesolution.github.io/tags/c/"/>
     
-    <category term="git" scheme="https://opensourcesolution.com.br/tags/git/"/>
+    <category term="git" scheme="https://opensourcesolution.github.io/tags/git/"/>
     
-    <category term="php7" scheme="https://opensourcesolution.com.br/tags/php7/"/>
+    <category term="php7" scheme="https://opensourcesolution.github.io/tags/php7/"/>
     
-    <category term="editor" scheme="https://opensourcesolution.com.br/tags/editor/"/>
+    <category term="editor" scheme="https://opensourcesolution.github.io/tags/editor/"/>
     
-    <category term="VS Code" scheme="https://opensourcesolution.com.br/tags/VS-Code/"/>
+    <category term="VS Code" scheme="https://opensourcesolution.github.io/tags/VS-Code/"/>
     
   </entry>
   
   <entry>
     <title>Docker Compose - Instalação e utilização.</title>
-    <link href="https://opensourcesolution.com.br/docker-compose-instalacao-e-utilizacao/"/>
-    <id>https://opensourcesolution.com.br/docker-compose-instalacao-e-utilizacao/</id>
+    <link href="https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/"/>
+    <id>https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/</id>
     <published>2018-03-22T01:31:18.000Z</published>
     <updated>2021-12-09T20:00:46.379Z</updated>
     
@@ -385,25 +385,25 @@
     
     
     
-    <category term="Docker" scheme="https://opensourcesolution.com.br/categories/Docker/"/>
+    <category term="Docker" scheme="https://opensourcesolution.github.io/categories/Docker/"/>
     
-    <category term="Docker Compose" scheme="https://opensourcesolution.com.br/categories/Docker-Compose/"/>
+    <category term="Docker Compose" scheme="https://opensourcesolution.github.io/categories/Docker-Compose/"/>
     
     
-    <category term="contêineres" scheme="https://opensourcesolution.com.br/tags/conteineres/"/>
+    <category term="contêineres" scheme="https://opensourcesolution.github.io/tags/conteineres/"/>
     
-    <category term="docker-comopose" scheme="https://opensourcesolution.com.br/tags/docker-comopose/"/>
+    <category term="docker-comopose" scheme="https://opensourcesolution.github.io/tags/docker-comopose/"/>
     
-    <category term="images" scheme="https://opensourcesolution.com.br/tags/images/"/>
+    <category term="images" scheme="https://opensourcesolution.github.io/tags/images/"/>
     
-    <category term="virtualização" scheme="https://opensourcesolution.com.br/tags/virtualizacao/"/>
+    <category term="virtualização" scheme="https://opensourcesolution.github.io/tags/virtualizacao/"/>
     
   </entry>
   
   <entry>
     <title>KeePass 2.38 - Gerencie suas senhas.</title>
-    <link href="https://opensourcesolution.com.br/keepass-2-38-gerencie-suas-senhas/"/>
-    <id>https://opensourcesolution.com.br/keepass-2-38-gerencie-suas-senhas/</id>
+    <link href="https://opensourcesolution.github.io/keepass-2-38-gerencie-suas-senhas/"/>
+    <id>https://opensourcesolution.github.io/keepass-2-38-gerencie-suas-senhas/</id>
     <published>2018-03-08T05:39:36.000Z</published>
     <updated>2021-12-09T19:40:07.325Z</updated>
     
@@ -425,25 +425,25 @@
     
     
     
-    <category term="KeePass 2" scheme="https://opensourcesolution.com.br/categories/KeePass-2/"/>
+    <category term="KeePass 2" scheme="https://opensourcesolution.github.io/categories/KeePass-2/"/>
     
     
-    <category term="banco de dados" scheme="https://opensourcesolution.com.br/tags/banco-de-dados/"/>
+    <category term="banco de dados" scheme="https://opensourcesolution.github.io/tags/banco-de-dados/"/>
     
-    <category term="gerenciador de senhas" scheme="https://opensourcesolution.com.br/tags/gerenciador-de-senhas/"/>
+    <category term="gerenciador de senhas" scheme="https://opensourcesolution.github.io/tags/gerenciador-de-senhas/"/>
     
-    <category term="keepass" scheme="https://opensourcesolution.com.br/tags/keepass/"/>
+    <category term="keepass" scheme="https://opensourcesolution.github.io/tags/keepass/"/>
     
-    <category term="keepass2" scheme="https://opensourcesolution.com.br/tags/keepass2/"/>
+    <category term="keepass2" scheme="https://opensourcesolution.github.io/tags/keepass2/"/>
     
-    <category term="senha" scheme="https://opensourcesolution.com.br/tags/senha/"/>
+    <category term="senha" scheme="https://opensourcesolution.github.io/tags/senha/"/>
     
   </entry>
   
   <entry>
     <title>Docker - Obtenha contêineres de seus aplicativos.</title>
-    <link href="https://opensourcesolution.com.br/docker-obtenha-conteineres-de-seus-aplicativos/"/>
-    <id>https://opensourcesolution.com.br/docker-obtenha-conteineres-de-seus-aplicativos/</id>
+    <link href="https://opensourcesolution.github.io/docker-obtenha-conteineres-de-seus-aplicativos/"/>
+    <id>https://opensourcesolution.github.io/docker-obtenha-conteineres-de-seus-aplicativos/</id>
     <published>2018-03-05T04:19:35.000Z</published>
     <updated>2021-12-09T20:19:42.740Z</updated>
     
@@ -459,35 +459,35 @@
     
     
     
-    <category term="Docker" scheme="https://opensourcesolution.com.br/categories/Docker/"/>
+    <category term="Docker" scheme="https://opensourcesolution.github.io/categories/Docker/"/>
     
-    <category term="Virtualização" scheme="https://opensourcesolution.com.br/categories/Virtualizacao/"/>
+    <category term="Virtualização" scheme="https://opensourcesolution.github.io/categories/Virtualizacao/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="wordpress" scheme="https://opensourcesolution.com.br/tags/wordpress/"/>
+    <category term="wordpress" scheme="https://opensourcesolution.github.io/tags/wordpress/"/>
     
-    <category term="contêineres" scheme="https://opensourcesolution.com.br/tags/conteineres/"/>
+    <category term="contêineres" scheme="https://opensourcesolution.github.io/tags/conteineres/"/>
     
-    <category term="images" scheme="https://opensourcesolution.com.br/tags/images/"/>
+    <category term="images" scheme="https://opensourcesolution.github.io/tags/images/"/>
     
-    <category term="virtualização" scheme="https://opensourcesolution.com.br/tags/virtualizacao/"/>
+    <category term="virtualização" scheme="https://opensourcesolution.github.io/tags/virtualizacao/"/>
     
-    <category term="docker" scheme="https://opensourcesolution.com.br/tags/docker/"/>
+    <category term="docker" scheme="https://opensourcesolution.github.io/tags/docker/"/>
     
-    <category term="mariadb" scheme="https://opensourcesolution.com.br/tags/mariadb/"/>
+    <category term="mariadb" scheme="https://opensourcesolution.github.io/tags/mariadb/"/>
     
-    <category term="mariadb-server" scheme="https://opensourcesolution.com.br/tags/mariadb-server/"/>
+    <category term="mariadb-server" scheme="https://opensourcesolution.github.io/tags/mariadb-server/"/>
     
-    <category term="nuvem" scheme="https://opensourcesolution.com.br/tags/nuvem/"/>
+    <category term="nuvem" scheme="https://opensourcesolution.github.io/tags/nuvem/"/>
     
   </entry>
   
   <entry>
     <title>PrestaShop - Tenha sua própria loja Virtual.</title>
-    <link href="https://opensourcesolution.com.br/prestashop-tenha-sua-propria-loja-virtual/"/>
-    <id>https://opensourcesolution.com.br/prestashop-tenha-sua-propria-loja-virtual/</id>
+    <link href="https://opensourcesolution.github.io/prestashop-tenha-sua-propria-loja-virtual/"/>
+    <id>https://opensourcesolution.github.io/prestashop-tenha-sua-propria-loja-virtual/</id>
     <published>2018-02-26T08:44:30.000Z</published>
     <updated>2021-12-09T21:07:28.089Z</updated>
     
@@ -506,27 +506,27 @@
     
     
     
-    <category term="E-Commerce" scheme="https://opensourcesolution.com.br/categories/E-Commerce/"/>
+    <category term="E-Commerce" scheme="https://opensourcesolution.github.io/categories/E-Commerce/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="php" scheme="https://opensourcesolution.com.br/tags/php/"/>
+    <category term="php" scheme="https://opensourcesolution.github.io/tags/php/"/>
     
-    <category term="mariadb-server" scheme="https://opensourcesolution.com.br/tags/mariadb-server/"/>
+    <category term="mariadb-server" scheme="https://opensourcesolution.github.io/tags/mariadb-server/"/>
     
-    <category term="debian9" scheme="https://opensourcesolution.com.br/tags/debian9/"/>
+    <category term="debian9" scheme="https://opensourcesolution.github.io/tags/debian9/"/>
     
-    <category term="e-commerce" scheme="https://opensourcesolution.com.br/tags/e-commerce/"/>
+    <category term="e-commerce" scheme="https://opensourcesolution.github.io/tags/e-commerce/"/>
     
-    <category term="loja virtual" scheme="https://opensourcesolution.com.br/tags/loja-virtual/"/>
+    <category term="loja virtual" scheme="https://opensourcesolution.github.io/tags/loja-virtual/"/>
     
   </entry>
   
   <entry>
     <title>ownCloud -  Tenha seu próprio servidor Cloud.</title>
-    <link href="https://opensourcesolution.com.br/owncloud-tenha-seu-proprio-servidor-cloud/"/>
-    <id>https://opensourcesolution.com.br/owncloud-tenha-seu-proprio-servidor-cloud/</id>
+    <link href="https://opensourcesolution.github.io/owncloud-tenha-seu-proprio-servidor-cloud/"/>
+    <id>https://opensourcesolution.github.io/owncloud-tenha-seu-proprio-servidor-cloud/</id>
     <published>2018-01-31T02:45:36.000Z</published>
     <updated>2021-12-09T22:05:17.462Z</updated>
     
@@ -549,29 +549,29 @@
     
     
     
-    <category term="Nuvem" scheme="https://opensourcesolution.com.br/categories/Nuvem/"/>
+    <category term="Nuvem" scheme="https://opensourcesolution.github.io/categories/Nuvem/"/>
     
-    <category term="OwnCloud" scheme="https://opensourcesolution.com.br/categories/OwnCloud/"/>
+    <category term="OwnCloud" scheme="https://opensourcesolution.github.io/categories/OwnCloud/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="nuvem" scheme="https://opensourcesolution.com.br/tags/nuvem/"/>
+    <category term="nuvem" scheme="https://opensourcesolution.github.io/tags/nuvem/"/>
     
-    <category term="cloud" scheme="https://opensourcesolution.com.br/tags/cloud/"/>
+    <category term="cloud" scheme="https://opensourcesolution.github.io/tags/cloud/"/>
     
-    <category term="mint18" scheme="https://opensourcesolution.com.br/tags/mint18/"/>
+    <category term="mint18" scheme="https://opensourcesolution.github.io/tags/mint18/"/>
     
-    <category term="owncloud" scheme="https://opensourcesolution.com.br/tags/owncloud/"/>
+    <category term="owncloud" scheme="https://opensourcesolution.github.io/tags/owncloud/"/>
     
-    <category term="sincronismo" scheme="https://opensourcesolution.com.br/tags/sincronismo/"/>
+    <category term="sincronismo" scheme="https://opensourcesolution.github.io/tags/sincronismo/"/>
     
   </entry>
   
   <entry>
     <title>Laravel - Instale um Poderoso Framework PHP.</title>
-    <link href="https://opensourcesolution.com.br/laravel-instale-um-poderoso-framework-php/"/>
-    <id>https://opensourcesolution.com.br/laravel-instale-um-poderoso-framework-php/</id>
+    <link href="https://opensourcesolution.github.io/laravel-instale-um-poderoso-framework-php/"/>
+    <id>https://opensourcesolution.github.io/laravel-instale-um-poderoso-framework-php/</id>
     <published>2018-01-28T01:32:48.000Z</published>
     <updated>2021-12-09T22:23:00.159Z</updated>
     
@@ -597,31 +597,31 @@
     
     
     
-    <category term="Framework" scheme="https://opensourcesolution.com.br/categories/Framework/"/>
+    <category term="Framework" scheme="https://opensourcesolution.github.io/categories/Framework/"/>
     
-    <category term="Laravel" scheme="https://opensourcesolution.com.br/categories/Laravel/"/>
+    <category term="Laravel" scheme="https://opensourcesolution.github.io/categories/Laravel/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="composer" scheme="https://opensourcesolution.com.br/tags/composer/"/>
+    <category term="composer" scheme="https://opensourcesolution.github.io/tags/composer/"/>
     
-    <category term="php" scheme="https://opensourcesolution.com.br/tags/php/"/>
+    <category term="php" scheme="https://opensourcesolution.github.io/tags/php/"/>
     
-    <category term="apache" scheme="https://opensourcesolution.com.br/tags/apache/"/>
+    <category term="apache" scheme="https://opensourcesolution.github.io/tags/apache/"/>
     
-    <category term="framework" scheme="https://opensourcesolution.com.br/tags/framework/"/>
+    <category term="framework" scheme="https://opensourcesolution.github.io/tags/framework/"/>
     
-    <category term="laravel" scheme="https://opensourcesolution.com.br/tags/laravel/"/>
+    <category term="laravel" scheme="https://opensourcesolution.github.io/tags/laravel/"/>
     
-    <category term="nginx" scheme="https://opensourcesolution.com.br/tags/nginx/"/>
+    <category term="nginx" scheme="https://opensourcesolution.github.io/tags/nginx/"/>
     
   </entry>
   
   <entry>
     <title>Veyon - Gerencie sua sala de aula.</title>
-    <link href="https://opensourcesolution.com.br/veyon-gerencie-sua-sala-de-aula/"/>
-    <id>https://opensourcesolution.com.br/veyon-gerencie-sua-sala-de-aula/</id>
+    <link href="https://opensourcesolution.github.io/veyon-gerencie-sua-sala-de-aula/"/>
+    <id>https://opensourcesolution.github.io/veyon-gerencie-sua-sala-de-aula/</id>
     <published>2018-01-23T20:38:20.000Z</published>
     <updated>2021-12-09T23:18:50.300Z</updated>
     
@@ -640,47 +640,47 @@
     
     
     
-    <category term="Linux" scheme="https://opensourcesolution.com.br/categories/Linux/"/>
+    <category term="Linux" scheme="https://opensourcesolution.github.io/categories/Linux/"/>
     
-    <category term="Linux Mint" scheme="https://opensourcesolution.com.br/categories/Linux-Mint/"/>
+    <category term="Linux Mint" scheme="https://opensourcesolution.github.io/categories/Linux-Mint/"/>
     
-    <category term="Ubuntu" scheme="https://opensourcesolution.com.br/categories/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://opensourcesolution.github.io/categories/Ubuntu/"/>
     
-    <category term="Veyon" scheme="https://opensourcesolution.com.br/categories/Veyon/"/>
+    <category term="Veyon" scheme="https://opensourcesolution.github.io/categories/Veyon/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.com.br/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="gerenciamento" scheme="https://opensourcesolution.com.br/tags/gerenciamento/"/>
+    <category term="gerenciamento" scheme="https://opensourcesolution.github.io/tags/gerenciamento/"/>
     
-    <category term="remoto" scheme="https://opensourcesolution.com.br/tags/remoto/"/>
+    <category term="remoto" scheme="https://opensourcesolution.github.io/tags/remoto/"/>
     
-    <category term="windows" scheme="https://opensourcesolution.com.br/tags/windows/"/>
+    <category term="windows" scheme="https://opensourcesolution.github.io/tags/windows/"/>
     
-    <category term="acesso remoto" scheme="https://opensourcesolution.com.br/tags/acesso-remoto/"/>
+    <category term="acesso remoto" scheme="https://opensourcesolution.github.io/tags/acesso-remoto/"/>
     
-    <category term="aula" scheme="https://opensourcesolution.com.br/tags/aula/"/>
+    <category term="aula" scheme="https://opensourcesolution.github.io/tags/aula/"/>
     
-    <category term="escola" scheme="https://opensourcesolution.com.br/tags/escola/"/>
+    <category term="escola" scheme="https://opensourcesolution.github.io/tags/escola/"/>
     
-    <category term="informatica" scheme="https://opensourcesolution.com.br/tags/informatica/"/>
+    <category term="informatica" scheme="https://opensourcesolution.github.io/tags/informatica/"/>
     
-    <category term="laboratorio" scheme="https://opensourcesolution.com.br/tags/laboratorio/"/>
+    <category term="laboratorio" scheme="https://opensourcesolution.github.io/tags/laboratorio/"/>
     
-    <category term="professores" scheme="https://opensourcesolution.com.br/tags/professores/"/>
+    <category term="professores" scheme="https://opensourcesolution.github.io/tags/professores/"/>
     
-    <category term="sala de aula" scheme="https://opensourcesolution.com.br/tags/sala-de-aula/"/>
+    <category term="sala de aula" scheme="https://opensourcesolution.github.io/tags/sala-de-aula/"/>
     
-    <category term="veyon" scheme="https://opensourcesolution.com.br/tags/veyon/"/>
+    <category term="veyon" scheme="https://opensourcesolution.github.io/tags/veyon/"/>
     
   </entry>
   
   <entry>
     <title>MultiSystem - Crie seu Pendrive bootável</title>
-    <link href="https://opensourcesolution.com.br/multisystem-crie-seu-pendrive-bootavel/"/>
-    <id>https://opensourcesolution.com.br/multisystem-crie-seu-pendrive-bootavel/</id>
+    <link href="https://opensourcesolution.github.io/multisystem-crie-seu-pendrive-bootavel/"/>
+    <id>https://opensourcesolution.github.io/multisystem-crie-seu-pendrive-bootavel/</id>
     <published>2018-01-13T02:46:45.000Z</published>
     <updated>2021-12-09T23:44:40.141Z</updated>
     
@@ -694,33 +694,33 @@
     
     
     
-    <category term="Linux" scheme="https://opensourcesolution.com.br/categories/Linux/"/>
+    <category term="Linux" scheme="https://opensourcesolution.github.io/categories/Linux/"/>
     
-    <category term="Pendrive" scheme="https://opensourcesolution.com.br/categories/Pendrive/"/>
+    <category term="Pendrive" scheme="https://opensourcesolution.github.io/categories/Pendrive/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.com.br/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="virtualbox" scheme="https://opensourcesolution.com.br/tags/virtualbox/"/>
+    <category term="virtualbox" scheme="https://opensourcesolution.github.io/tags/virtualbox/"/>
     
-    <category term="boot" scheme="https://opensourcesolution.com.br/tags/boot/"/>
+    <category term="boot" scheme="https://opensourcesolution.github.io/tags/boot/"/>
     
-    <category term="livecd" scheme="https://opensourcesolution.com.br/tags/livecd/"/>
+    <category term="livecd" scheme="https://opensourcesolution.github.io/tags/livecd/"/>
     
-    <category term="liveusb" scheme="https://opensourcesolution.com.br/tags/liveusb/"/>
+    <category term="liveusb" scheme="https://opensourcesolution.github.io/tags/liveusb/"/>
     
-    <category term="pendrive" scheme="https://opensourcesolution.com.br/tags/pendrive/"/>
+    <category term="pendrive" scheme="https://opensourcesolution.github.io/tags/pendrive/"/>
     
-    <category term="qemu" scheme="https://opensourcesolution.com.br/tags/qemu/"/>
+    <category term="qemu" scheme="https://opensourcesolution.github.io/tags/qemu/"/>
     
   </entry>
   
   <entry>
     <title>Clamav - O antivírus para o seu Linux.</title>
-    <link href="https://opensourcesolution.com.br/clamav-o-antivirus-para-o-seu-linux/"/>
-    <id>https://opensourcesolution.com.br/clamav-o-antivirus-para-o-seu-linux/</id>
+    <link href="https://opensourcesolution.github.io/clamav-o-antivirus-para-o-seu-linux/"/>
+    <id>https://opensourcesolution.github.io/clamav-o-antivirus-para-o-seu-linux/</id>
     <published>2018-01-11T03:41:04.000Z</published>
     <updated>2021-12-09T23:59:34.986Z</updated>
     
@@ -751,20 +751,20 @@
     
     
     
-    <category term="Antivírus" scheme="https://opensourcesolution.com.br/categories/Antivirus/"/>
+    <category term="Antivírus" scheme="https://opensourcesolution.github.io/categories/Antivirus/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.com.br/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.com.br/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="antivirus" scheme="https://opensourcesolution.com.br/tags/antivirus/"/>
+    <category term="antivirus" scheme="https://opensourcesolution.github.io/tags/antivirus/"/>
     
-    <category term="clamav" scheme="https://opensourcesolution.com.br/tags/clamav/"/>
+    <category term="clamav" scheme="https://opensourcesolution.github.io/tags/clamav/"/>
     
-    <category term="fedora" scheme="https://opensourcesolution.com.br/tags/fedora/"/>
+    <category term="fedora" scheme="https://opensourcesolution.github.io/tags/fedora/"/>
     
-    <category term="virus" scheme="https://opensourcesolution.com.br/tags/virus/"/>
+    <category term="virus" scheme="https://opensourcesolution.github.io/tags/virus/"/>
     
   </entry>
   

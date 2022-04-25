@@ -28,15 +28,15 @@
         <meta name="description" content="Bom pessoal, neste post “falaremos” dos operadores da linguagem java, a função deles é manipular os valores das variáveis de um programa. No Java os principais operadores são: Aritmético, Atribuição,">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Operadores - Programação Java">
-<meta property="og:url" content="https://opensourcesolution.com.br/operadores-programacao-java/index.html">
+<meta property="og:url" content="https://opensourcesolution.github.io/operadores-programacao-java/index.html">
 <meta property="og:site_name" content="Open Source Solution">
 <meta property="og:description" content="Bom pessoal, neste post “falaremos” dos operadores da linguagem java, a função deles é manipular os valores das variáveis de um programa. No Java os principais operadores são: Aritmético, Atribuição,">
 <meta property="og:locale" content="pt_BR">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/java/java_logo.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/java/java_classe_aritmetico.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/java/java_classe_atribuicao.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/java/java_classe_relacional.png">
-<meta property="og:image" content="https://opensourcesolution.com.br/images/posts/java/java_classe_logico.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/java/java_logo.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/java/java_classe_aritmetico.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/java/java_classe_atribuicao.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/java/java_classe_relacional.png">
+<meta property="og:image" content="https://opensourcesolution.github.io/images/posts/java/java_classe_logico.png">
 <meta property="article:published_time" content="2016-05-06T01:05:23.000Z">
 <meta property="article:modified_time" content="2021-12-12T01:08:51.589Z">
 <meta property="article:author" content="Jackson de Oliveira">
@@ -46,7 +46,7 @@
 <meta property="article:tag" content="linguagem">
 <meta property="article:tag" content="operadores">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://opensourcesolution.com.br/images/posts/java/java_logo.png">
+<meta name="twitter:image" content="https://opensourcesolution.github.io/images/posts/java/java_logo.png">
           
             <link rel="alternate" href="/atom.xml" title="Open Source Solution" type="application/atom+xml">
               
@@ -99,7 +99,7 @@
         <a id="nav-search-btn" class="nav-icon" title="Buscar"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Buscar"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://opensourcesolution.com.br"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Buscar"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://opensourcesolution.github.io"></form>
       </div>
     </div>
   </div>
@@ -135,7 +135,7 @@
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">TesteAtribuicao</span> </span>&#123;</span><br><span class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">  <span class="comment">// TODO Auto-generated method stub</span></span><br><span class="line">  <span class="keyword">int</span> <span class="keyword">var</span> = <span class="number">1</span>;</span><br><span class="line">  System.out.printf(<span class="string">&quot;var = &quot;</span> + <span class="keyword">var</span> + <span class="string">&quot;\n&quot;</span>);</span><br><span class="line">  <span class="keyword">var</span> += <span class="number">10</span>;</span><br><span class="line">  System.out.printf(<span class="string">&quot;var = &quot;</span> + <span class="keyword">var</span> + <span class="string">&quot;\n&quot;</span>);</span><br><span class="line">  <span class="keyword">var</span> -= <span class="number">4</span>;</span><br><span class="line">  System.out.printf(<span class="string">&quot;var = &quot;</span> + <span class="keyword">var</span> + <span class="string">&quot;\n&quot;</span>);</span><br><span class="line">  <span class="keyword">var</span> \*= <span class="number">2</span>;</span><br><span class="line">  System.out.printf(<span class="string">&quot;var = &quot;</span> + <span class="keyword">var</span> + <span class="string">&quot;\n&quot;</span>);</span><br><span class="line">  <span class="keyword">var</span> /= <span class="number">2</span>;</span><br><span class="line">  System.out.printf(<span class="string">&quot;var = &quot;</span> + <span class="keyword">var</span> + <span class="string">&quot;\n&quot;</span>);</span><br><span class="line">  <span class="keyword">var</span> %= <span class="number">3</span>;</span><br><span class="line">  System.out.printf(<span class="string">&quot;var = &quot;</span> + <span class="keyword">var</span>);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <p><img src="/images/posts/java/java_classe_atribuicao.png" title="Java class atribuição"></p>
-<h2 id="Relacional"><a href="#Relacional" class="headerlink" title="Relacional"></a>Relacional</h2><p>Operadores relacionais devolvem valores do <a href="https://opensourcesolution.com.br/tipos-primitivos-programacao-java/">tipo primitivo</a> boolean (true ou false), são eles: Igualdade ( == ), Diferença ( != ), Menor ( &lt; ),  Menor ou igual ( &lt;=), Maior ( &gt;), Maior ou igual ( &gt;= );</p>
+<h2 id="Relacional"><a href="#Relacional" class="headerlink" title="Relacional"></a>Relacional</h2><p>Operadores relacionais devolvem valores do <a target="_blank" rel="noopener" href="https://opensourcesolution.com.br/tipos-primitivos-programacao-java/">tipo primitivo</a> boolean (true ou false), são eles: Igualdade ( == ), Diferença ( != ), Menor ( &lt; ),  Menor ou igual ( &lt;=), Maior ( &gt;), Maior ou igual ( &gt;= );</p>
 <figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">TesteRelacional</span> </span>&#123;</span><br><span class="line">  <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">  <span class="comment">// TODO Auto-generated method stub</span></span><br><span class="line">    <span class="keyword">int</span> valor = <span class="number">7</span>;</span><br><span class="line">    <span class="keyword">if</span> (valor == <span class="number">5</span>) &#123;</span><br><span class="line">    System.out.printf(<span class="string">&quot;Valor é igual\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">if</span> (valor != <span class="number">5</span>) &#123;</span><br><span class="line">    System.out.printf(<span class="string">&quot;Valor é diferente\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">if</span> (valor &lt; <span class="number">5</span>) &#123;</span><br><span class="line">    System.out.printf(<span class="string">&quot;Valor é menor\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">if</span> (valor &lt;= <span class="number">5</span>) &#123; System.out.printf(<span class="string">&quot;Valor é menor ou igual\n&quot;</span>); &#125; <span class="keyword">if</span> (valor &gt; <span class="number">5</span>) &#123;</span><br><span class="line">    System.out.printf(<span class="string">&quot;Valor é maior\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">if</span> (valor &gt;= <span class="number">5</span>) &#123;</span><br><span class="line">    System.out.printf(<span class="string">&quot;Valor é maior ou igual\n&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <p><img src="/images/posts/java/java_classe_relacional.png" title="Java class relacional"></p>
@@ -148,9 +148,9 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://opensourcesolution.com.br/operadores-programacao-java/" data-id="ckxo6his7004etgjc78chbvfj" data-title="Operadores - Programação Java" class="article-share-link">Compartilhar</a>
+      <a data-url="https://opensourcesolution.github.io/operadores-programacao-java/" data-id="cl2e85x9f004f10jchvfx4jz3" data-title="Operadores - Programação Java" class="article-share-link">Compartilhar</a>
       
-        <a href="https://opensourcesolution.com.br/operadores-programacao-java/#disqus_thread" class="article-comment-link">Comentários</a>
+        <a href="https://opensourcesolution.github.io/operadores-programacao-java/#disqus_thread" class="article-comment-link">Comentários</a>
       
       
       
@@ -261,7 +261,7 @@
   <div class="outer">
     <div id="footer-info" class="inner">
       
-      &copy; 2021 Jackson de Oliveira<br>
+      &copy; 2022 Jackson de Oliveira<br>
       Desenvolvido por <a href="https://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
@@ -279,7 +279,7 @@
 <script>
   var disqus_shortname = 'opensourcesolution';
   
-  var disqus_url = 'https://opensourcesolution.com.br/operadores-programacao-java/';
+  var disqus_url = 'https://opensourcesolution.github.io/operadores-programacao-java/';
   
   (function(){
     var dsq = document.createElement('script');
