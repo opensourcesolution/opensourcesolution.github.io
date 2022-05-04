@@ -2,560 +2,560 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://opensourcesolution.github.io/</loc>
+        <loc>https://opensourcesolution.github.io/site/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/NetBeans/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/NetBeans/</loc>
         <lastmod>2021-12-27T03:56:27.464Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Programacao/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Programacao/</loc>
         <lastmod>2021-12-27T03:56:27.464Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Java/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Java/</loc>
         <lastmod>2021-12-27T03:56:27.464Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Ubuntu/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Ubuntu/</loc>
         <lastmod>2021-12-18T21:38:33.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Linux-Mint/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Linux-Mint/</loc>
         <lastmod>2021-12-18T21:38:33.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Linux/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Linux/</loc>
         <lastmod>2021-12-18T21:38:33.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Apache/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Apache/</loc>
         <lastmod>2021-12-18T21:38:33.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/IDE-s/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/IDE-s/</loc>
         <lastmod>2021-12-18T16:55:06.733Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Android-Studio/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Android-Studio/</loc>
         <lastmod>2021-12-18T16:55:06.733Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Guacamole/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Guacamole/</loc>
         <lastmod>2021-12-16T18:54:12.686Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Acesso-remoto/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Acesso-remoto/</loc>
         <lastmod>2021-12-16T18:54:12.686Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Qt/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Qt/</loc>
         <lastmod>2021-12-14T12:40:41.628Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Shell-Script/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Shell-Script/</loc>
         <lastmod>2021-12-13T16:35:18.817Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Eclipse/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Eclipse/</loc>
         <lastmod>2021-12-13T16:31:33.061Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/LibreOffice/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/LibreOffice/</loc>
         <lastmod>2021-12-13T16:15:07.131Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Debian/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Debian/</loc>
         <lastmod>2021-12-13T16:10:42.100Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Seamonkey/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Seamonkey/</loc>
         <lastmod>2021-12-13T16:02:23.511Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Mozilla/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Mozilla/</loc>
         <lastmod>2021-12-13T16:02:23.511Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Firefox/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Firefox/</loc>
         <lastmod>2021-12-13T16:02:23.511Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/MariaDB/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/MariaDB/</loc>
         <lastmod>2021-12-13T15:51:53.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Redes/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Redes/</loc>
         <lastmod>2021-12-13T15:40:52.375Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Thunderbird/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Thunderbird/</loc>
         <lastmod>2021-12-13T15:30:27.810Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Gimp/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Gimp/</loc>
         <lastmod>2021-12-13T14:26:39.410Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/SQLite3/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/SQLite3/</loc>
         <lastmod>2021-12-13T14:16:38.235Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Banco-de-Dados/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Banco-de-Dados/</loc>
         <lastmod>2021-12-13T14:16:38.235Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Iptables/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Iptables/</loc>
         <lastmod>2021-12-13T13:50:08.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Terminal-Linux/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Terminal-Linux/</loc>
         <lastmod>2021-12-13T13:44:47.013Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Samba-4/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Samba-4/</loc>
         <lastmod>2021-12-12T04:56:44.200Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/KVM/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/KVM/</loc>
         <lastmod>2021-12-12T04:41:28.916Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Virtualizacao/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Virtualizacao/</loc>
         <lastmod>2021-12-12T04:41:28.916Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/OTRS/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/OTRS/</loc>
         <lastmod>2021-12-12T04:19:38.420Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Android/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Android/</loc>
         <lastmod>2021-12-12T01:47:02.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/pfSense/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/pfSense/</loc>
         <lastmod>2021-12-12T00:50:24.223Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Firewall/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Firewall/</loc>
         <lastmod>2021-12-12T00:50:24.223Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Zabbix/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Zabbix/</loc>
         <lastmod>2021-12-12T00:13:26.705Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Impressora/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Impressora/</loc>
         <lastmod>2021-12-11T23:43:36.886Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/BIND-9/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/BIND-9/</loc>
         <lastmod>2021-12-11T20:50:23.771Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Editores/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Editores/</loc>
         <lastmod>2021-12-11T18:57:27.528Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Git/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Git/</loc>
         <lastmod>2021-12-11T18:44:24.812Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Sistema-Operacional/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Sistema-Operacional/</loc>
         <lastmod>2021-12-11T18:20:51.325Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Node-js/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Node-js/</loc>
         <lastmod>2021-12-11T17:22:42.297Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Javascript/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Javascript/</loc>
         <lastmod>2021-12-11T17:22:42.297Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Openfire/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Openfire/</loc>
         <lastmod>2021-12-11T01:40:45.245Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Spark/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Spark/</loc>
         <lastmod>2021-12-10T23:59:35.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/GitLab/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/GitLab/</loc>
         <lastmod>2021-12-10T23:41:51.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Endian/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Endian/</loc>
         <lastmod>2021-12-10T23:20:06.006Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Drivers/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Drivers/</loc>
         <lastmod>2021-12-10T22:44:16.300Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Puppet/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Puppet/</loc>
         <lastmod>2021-12-10T22:06:09.911Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/MySQL-Workbench/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/MySQL-Workbench/</loc>
         <lastmod>2021-12-10T21:53:53.726Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Apache-Tomcat/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Apache-Tomcat/</loc>
         <lastmod>2021-12-10T21:32:23.830Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/GlassFish4/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/GlassFish4/</loc>
         <lastmod>2021-12-10T20:35:53.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Xdedug/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Xdedug/</loc>
         <lastmod>2021-12-10T19:50:51.449Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Asterisk/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Asterisk/</loc>
         <lastmod>2021-12-10T19:14:49.650Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Backports/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Backports/</loc>
         <lastmod>2021-12-10T18:21:53.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Proxmox/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Proxmox/</loc>
         <lastmod>2021-12-10T17:58:45.671Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Composer/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Composer/</loc>
         <lastmod>2021-12-10T03:26:36.998Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Crontab/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Crontab/</loc>
         <lastmod>2021-12-10T03:06:06.282Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/LimeSurvey/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/LimeSurvey/</loc>
         <lastmod>2021-12-10T02:46:43.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Joomla/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Joomla/</loc>
         <lastmod>2021-12-10T01:51:56.625Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Streaming/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Streaming/</loc>
         <lastmod>2021-12-10T00:29:45.200Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/MySQL/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/MySQL/</loc>
         <lastmod>2021-12-10T00:21:22.682Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Antivirus/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Antivirus/</loc>
         <lastmod>2021-12-09T23:59:34.986Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Pendrive/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Pendrive/</loc>
         <lastmod>2021-12-09T23:44:40.141Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Veyon/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Veyon/</loc>
         <lastmod>2021-12-09T23:18:50.300Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/PyCharm/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/PyCharm/</loc>
         <lastmod>2021-12-09T22:41:21.645Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Laravel/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Laravel/</loc>
         <lastmod>2021-12-09T22:23:00.159Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Framework/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Framework/</loc>
         <lastmod>2021-12-09T22:23:00.159Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/OwnCloud/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/OwnCloud/</loc>
         <lastmod>2021-12-09T22:05:17.462Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Nuvem/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Nuvem/</loc>
         <lastmod>2021-12-09T22:05:17.462Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/E-Commerce/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/E-Commerce/</loc>
         <lastmod>2021-12-09T21:07:28.089Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Docker/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Docker/</loc>
         <lastmod>2021-12-09T20:19:42.740Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Docker-Compose/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Docker-Compose/</loc>
         <lastmod>2021-12-09T20:00:46.379Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/KeePass-2/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/KeePass-2/</loc>
         <lastmod>2021-12-09T19:40:07.325Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/VS-Code/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/VS-Code/</loc>
         <lastmod>2021-12-09T17:57:03.622Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Cacti/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Cacti/</loc>
         <lastmod>2021-12-09T15:59:03.519Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Anuncios/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Anuncios/</loc>
         <lastmod>2021-12-09T15:54:17.742Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Arduino/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Arduino/</loc>
         <lastmod>2021-12-09T14:56:45.330Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Signal/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Signal/</loc>
         <lastmod>2021-12-09T14:16:07.866Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://opensourcesolution.github.io/categories/Webmail/</loc>
+        <loc>https://opensourcesolution.github.io/site/categories/Webmail/</loc>
         <lastmod>2021-12-09T13:57:31.606Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
