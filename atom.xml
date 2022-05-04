@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Source Solution</title>
-  <icon>https://opensourcesolution.github.io/site/icon.png</icon>
+  <icon>https://opensourcesolution.github.io/icon.png</icon>
   <subtitle>Aberto para o mundo</subtitle>
-  <link href="https://opensourcesolution.github.io/site/atom.xml" rel="self"/>
+  <link href="https://opensourcesolution.github.io/atom.xml" rel="self"/>
   
-  <link href="https://opensourcesolution.github.io/site/"/>
+  <link href="https://opensourcesolution.github.io/"/>
   <updated>2021-12-17T01:37:46.528Z</updated>
-  <id>https://opensourcesolution.github.io/site/</id>
+  <id>https://opensourcesolution.github.io/</id>
   
   <author>
     <name>Jackson de Oliveira</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Ativar módulo rewrite Web Apache</title>
-    <link href="https://opensourcesolution.github.io/site/ativar-modulo-rewrite-web-apache/"/>
-    <id>https://opensourcesolution.github.io/site/ativar-modulo-rewrite-web-apache/</id>
+    <link href="https://opensourcesolution.github.io/ativar-modulo-rewrite-web-apache/"/>
+    <id>https://opensourcesolution.github.io/ativar-modulo-rewrite-web-apache/</id>
     <published>2020-04-27T01:58:47.000Z</published>
     <updated>2021-12-17T01:37:46.528Z</updated>
     
@@ -28,26 +28,26 @@
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/apache_rewrite.jpg&quot; title=&quot;apache logo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Módulo rewrite fornece uma maneira de modificar</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/apache_rewrite.jpg&quot; title=&quot;apache logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Módulo rewrite fornece uma maneira de modificar solicitações de</summary>
         
       
     
     
     
-    <category term="Apache" scheme="https://opensourcesolution.github.io/site/categories/Apache/"/>
+    <category term="Apache" scheme="https://opensourcesolution.github.io/categories/Apache/"/>
     
     
-    <category term="apache2" scheme="https://opensourcesolution.github.io/site/tags/apache2/"/>
+    <category term="apache2" scheme="https://opensourcesolution.github.io/tags/apache2/"/>
     
-    <category term="rewrite" scheme="https://opensourcesolution.github.io/site/tags/rewrite/"/>
+    <category term="rewrite" scheme="https://opensourcesolution.github.io/tags/rewrite/"/>
     
   </entry>
   
   <entry>
     <title>Qt5 Designer no Ubuntu/Mint</title>
-    <link href="https://opensourcesolution.github.io/site/qt5-designer-no-ubuntu-mint/"/>
-    <id>https://opensourcesolution.github.io/site/qt5-designer-no-ubuntu-mint/</id>
+    <link href="https://opensourcesolution.github.io/qt5-designer-no-ubuntu-mint/"/>
+    <id>https://opensourcesolution.github.io/qt5-designer-no-ubuntu-mint/</id>
     <published>2020-04-24T03:43:18.000Z</published>
     <updated>2021-12-14T12:40:41.628Z</updated>
     
@@ -62,189 +62,189 @@
     
     
     
-    <category term="Qt" scheme="https://opensourcesolution.github.io/site/categories/Qt/"/>
+    <category term="Qt" scheme="https://opensourcesolution.github.io/categories/Qt/"/>
     
     
-    <category term="python" scheme="https://opensourcesolution.github.io/site/tags/python/"/>
+    <category term="python" scheme="https://opensourcesolution.github.io/tags/python/"/>
     
-    <category term="Qt5 Designer" scheme="https://opensourcesolution.github.io/site/tags/Qt5-Designer/"/>
+    <category term="Qt5 Designer" scheme="https://opensourcesolution.github.io/tags/Qt5-Designer/"/>
     
   </entry>
   
   <entry>
     <title>Roundcube - Instalação e Configuração no Debian 9</title>
-    <link href="https://opensourcesolution.github.io/site/roundcube-instalacao-e-configuracao-no-debian-9/"/>
-    <id>https://opensourcesolution.github.io/site/roundcube-instalacao-e-configuracao-no-debian-9/</id>
+    <link href="https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/"/>
+    <id>https://opensourcesolution.github.io/roundcube-instalacao-e-configuracao-no-debian-9/</id>
     <published>2019-12-23T11:37:24.000Z</published>
     <updated>2021-12-09T13:57:31.606Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/roundcube/roundcube_logo.png&quot; title=&quot;roundcube logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/roundcube/roundcube_logo.png&quot; title=&quot;roundcube logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Roundcube é uma solução de webmail gratuita e de código aberto com uma interface desktop-like, fácil de instalar e configurar. As skins usam os padrões da web mais recentes para renderizar uma interface de usuário funcional e personalizável. Fornece funcionalidades completa de um cliente de e-mail, incluindo suporte a MIME, catálogo de endereços, gerenciamento de pastas, pesquisa de mensagens e verificação ortográfica. O Roundcube Webmail é escrito em PHP e requer banco de dados MySQL ou PostgreSQL.&lt;/p&gt;
 &lt;h4 id=&quot;VEJA-COM-REALIZAR-A-INSTALACAO-DA-VERSAO-STABLE-1-4-1&quot;&gt;&lt;a href=&quot;#VEJA-COM-REALIZAR-A-INSTALACAO-DA-VERSAO-STABLE-1-4-1&quot; class=&quot;headerlink&quot; title=&quot;VEJA COM REALIZAR A INSTALAÇÃO DA VERSÃO STABLE 1.4.1.&quot;&gt;&lt;/a&gt;&lt;strong&gt;VEJA COM REALIZAR A INSTALAÇÃO DA VERSÃO STABLE 1.4.1.&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;00 -&lt;/strong&gt;  Requerimento do sistema.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;  Apache, Lighttpd, Cherokee, Hiawatha ou Nginx web server.&lt;/li&gt;
-&lt;li&gt;  Diretório no servidor Web com permissão para executar scripts.&lt;/li&gt;
-&lt;li&gt;  PHP versão 5.4.1 ou maior.&lt;/li&gt;
-&lt;li&gt;  Mariadb ou PostgreSQL.&lt;/li&gt;
-&lt;li&gt;  Servidor IMAP com suporte IMAP 4 rev 1.&lt;/li&gt;
-&lt;li&gt;Servidor SMTP.&lt;br&gt;  Veja a lista completa &lt;a href=&quot;https://github.com/roundcube/roundcubemail/wiki/Install-Requirements&quot;&gt;clicando aqui&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Apache, Lighttpd, Cherokee, Hiawatha ou Nginx web server.&lt;/li&gt;
+&lt;li&gt;Diretório no servidor Web com permissão para executar scripts.&lt;/li&gt;
+&lt;li&gt;PHP versão 5.4.1 ou maior.&lt;/li&gt;
+&lt;li&gt;Mariadb ou PostgreSQL.&lt;/li&gt;
+&lt;li&gt;Servidor IMAP com suporte IMAP 4 rev 1.&lt;/li&gt;
+&lt;li&gt;Servidor SMTP.&lt;br&gt;Veja a lista completa &lt;a href=&quot;https://github.com/roundcube/roundcubemail/wiki/Install-Requirements&quot;&gt;clicando aqui&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;01 -&lt;/strong&gt; Download do pacote completo e descompactação na raiz do &lt;a href=&quot;https://opensourcesolution.com.br/apache-web-server-no-mint-ubuntu/&quot;&gt;apache&lt;/a&gt;.&lt;/p&gt;
 &lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;# wget -c https://github.com/roundcube/roundcubemail/releases/download/1.4.1/roundcubemail-1.4.1-complete.tar.gz&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;# tar -xvf roundcubemail-1.4.1-complete.tar.gz -C /var/www/html&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;# mv roundcubemail-1.4.1/ roundcubemail&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;# chown www-data: -R roundcubemail&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
     
-    <category term="Webmail" scheme="https://opensourcesolution.github.io/site/categories/Webmail/"/>
+    <category term="Webmail" scheme="https://opensourcesolution.github.io/categories/Webmail/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.github.io/site/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="debian" scheme="https://opensourcesolution.github.io/site/tags/debian/"/>
+    <category term="debian" scheme="https://opensourcesolution.github.io/tags/debian/"/>
     
-    <category term="email" scheme="https://opensourcesolution.github.io/site/tags/email/"/>
+    <category term="email" scheme="https://opensourcesolution.github.io/tags/email/"/>
     
-    <category term="imap" scheme="https://opensourcesolution.github.io/site/tags/imap/"/>
+    <category term="imap" scheme="https://opensourcesolution.github.io/tags/imap/"/>
     
-    <category term="roundcube" scheme="https://opensourcesolution.github.io/site/tags/roundcube/"/>
+    <category term="roundcube" scheme="https://opensourcesolution.github.io/tags/roundcube/"/>
     
-    <category term="smtp" scheme="https://opensourcesolution.github.io/site/tags/smtp/"/>
+    <category term="smtp" scheme="https://opensourcesolution.github.io/tags/smtp/"/>
     
-    <category term="webmail" scheme="https://opensourcesolution.github.io/site/tags/webmail/"/>
+    <category term="webmail" scheme="https://opensourcesolution.github.io/tags/webmail/"/>
     
   </entry>
   
   <entry>
     <title>Gerenciador Sybase GUI - Ubuntu e Linux Mint</title>
-    <link href="https://opensourcesolution.github.io/site/gerenciador-sybase-gui-ubuntu-e-linux-mint/"/>
-    <id>https://opensourcesolution.github.io/site/gerenciador-sybase-gui-ubuntu-e-linux-mint/</id>
+    <link href="https://opensourcesolution.github.io/gerenciador-sybase-gui-ubuntu-e-linux-mint/"/>
+    <id>https://opensourcesolution.github.io/gerenciador-sybase-gui-ubuntu-e-linux-mint/</id>
     <published>2019-10-17T01:18:21.000Z</published>
     <updated>2021-12-10T23:21:41.596Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/gerenciador_sybase.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;O Gerenciador Sybase GUI é um software de código aberto, desenvolvido em Python, Gtk e Shell Script, que inicializa o banco de dados Sybase do aplicativo Domínio Plus da área contábil, da empresa Domínio Sistemas. O app-gerenciador utiliza os binários que são disponibilizados pela própria empresa, à seus clientes neste &lt;a href=&quot;http://download.dominiosistemas.com.br/instalacao/diversos/sybase16_linux_64/&quot;&gt;link&lt;/a&gt; para o gerenciamento em linha de comando do banco de dados em ambientes GNU/Linux. O Gerenciador Sybase GUI disponibiliza um ambiente gráfico para o manuseio do banco, facilitando para aqueles usuários que não são muito fãs do terminal.&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/gerenciador_sybase.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;O Gerenciador Sybase GUI é um software de código aberto, desenvolvido em Python, Gtk e Shell Script, que inicializa o banco de dados Sybase do aplicativo Domínio Plus da área contábil, da empresa Domínio Sistemas. O app-gerenciador utiliza os binários que são disponibilizados pela própria empresa, à seus clientes neste &lt;a href=&quot;http://download.dominiosistemas.com.br/instalacao/diversos/sybase16_linux_64/&quot;&gt;link&lt;/a&gt; para o gerenciamento em linha de comando do banco de dados em ambientes GNU&amp;#x2F;Linux. O Gerenciador Sybase GUI disponibiliza um ambiente gráfico para o manuseio do banco, facilitando para aqueles usuários que não são muito fãs do terminal.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Requisitos:&lt;/strong&gt; &lt;strong&gt;Versão Linguagem:&lt;/strong&gt; Python 3.6+ &lt;strong&gt;Sistema Operacional:&lt;/strong&gt; Ubuntu 16.04, 18.04 e Linux Mint 18, 19 &lt;strong&gt;Ambiente Desktop:&lt;/strong&gt; Cinnamon, Xfce, Wayland.&lt;/p&gt;
 &lt;h2 id=&quot;INSTALACAO&quot;&gt;&lt;a href=&quot;#INSTALACAO&quot; class=&quot;headerlink&quot; title=&quot;INSTALAÇÃO&quot;&gt;&lt;/a&gt;INSTALAÇÃO&lt;/h2&gt;&lt;p&gt;Segue abaixo procedimentos para a instalação:&lt;/p&gt;</summary>
     
     
     
-    <category term="Banco de Dados" scheme="https://opensourcesolution.github.io/site/categories/Banco-de-Dados/"/>
+    <category term="Banco de Dados" scheme="https://opensourcesolution.github.io/categories/Banco-de-Dados/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="contabil" scheme="https://opensourcesolution.github.io/site/tags/contabil/"/>
+    <category term="contabil" scheme="https://opensourcesolution.github.io/tags/contabil/"/>
     
-    <category term="dbsrv" scheme="https://opensourcesolution.github.io/site/tags/dbsrv/"/>
+    <category term="dbsrv" scheme="https://opensourcesolution.github.io/tags/dbsrv/"/>
     
-    <category term="dominiosistemas" scheme="https://opensourcesolution.github.io/site/tags/dominiosistemas/"/>
+    <category term="dominiosistemas" scheme="https://opensourcesolution.github.io/tags/dominiosistemas/"/>
     
-    <category term="sybase" scheme="https://opensourcesolution.github.io/site/tags/sybase/"/>
+    <category term="sybase" scheme="https://opensourcesolution.github.io/tags/sybase/"/>
     
-    <category term="banco de dados" scheme="https://opensourcesolution.github.io/site/tags/banco-de-dados/"/>
+    <category term="banco de dados" scheme="https://opensourcesolution.github.io/tags/banco-de-dados/"/>
     
   </entry>
   
   <entry>
     <title>Signal - Uma alternativa para o Whatsapp</title>
-    <link href="https://opensourcesolution.github.io/site/signal-uma-alternativa-para-o-whatsapp/"/>
-    <id>https://opensourcesolution.github.io/site/signal-uma-alternativa-para-o-whatsapp/</id>
+    <link href="https://opensourcesolution.github.io/signal-uma-alternativa-para-o-whatsapp/"/>
+    <id>https://opensourcesolution.github.io/signal-uma-alternativa-para-o-whatsapp/</id>
     <published>2019-07-01T15:46:48.000Z</published>
     <updated>2021-12-09T14:16:07.866Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/signal/signal_logo.png&quot; title=&quot;Signal logo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Segundo o site do projeto, o Signal se define como um aplicativo de mensagens para comunicação privada simples com amigos. O Signal usa a conexão de dados do seu telefone (WiFi/3G/4G) para comunicação segura, opcionalmente suporta SMS/MMS simples para funcionar como um mensageiro unificado, e também pode criptografar as mensagens armazenadas no seu telefone. Existe versões para Android, assim como, para iPhone e Desktop.&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/signal/signal_logo.png&quot; title=&quot;Signal logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Segundo o site do projeto, o Signal se define como um aplicativo de mensagens para comunicação privada simples com amigos. O Signal usa a conexão de dados do seu telefone (WiFi&amp;#x2F;3G&amp;#x2F;4G) para comunicação segura, opcionalmente suporta SMS&amp;#x2F;MMS simples para funcionar como um mensageiro unificado, e também pode criptografar as mensagens armazenadas no seu telefone. Existe versões para Android, assim como, para iPhone e Desktop.&lt;/p&gt;
 &lt;p&gt;Neste post realizaremos a instalação da versão desktop no Linux Mint 19.1, apesar de somente disponibilizarem pacotes para a versão Xenial durante a instalação todas as dependências foram satisfeitas.&lt;/p&gt;
 &lt;h2 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;01&lt;/strong&gt; -  Realize os comandos abaixo:&lt;/p&gt;</summary>
     
     
     
-    <category term="Android" scheme="https://opensourcesolution.github.io/site/categories/Android/"/>
+    <category term="Android" scheme="https://opensourcesolution.github.io/categories/Android/"/>
     
-    <category term="Signal" scheme="https://opensourcesolution.github.io/site/categories/Signal/"/>
+    <category term="Signal" scheme="https://opensourcesolution.github.io/categories/Signal/"/>
     
     
-    <category term="android" scheme="https://opensourcesolution.github.io/site/tags/android/"/>
+    <category term="android" scheme="https://opensourcesolution.github.io/tags/android/"/>
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="mobile" scheme="https://opensourcesolution.github.io/site/tags/mobile/"/>
+    <category term="mobile" scheme="https://opensourcesolution.github.io/tags/mobile/"/>
     
-    <category term="telegram" scheme="https://opensourcesolution.github.io/site/tags/telegram/"/>
+    <category term="telegram" scheme="https://opensourcesolution.github.io/tags/telegram/"/>
     
-    <category term="whatsapp" scheme="https://opensourcesolution.github.io/site/tags/whatsapp/"/>
+    <category term="whatsapp" scheme="https://opensourcesolution.github.io/tags/whatsapp/"/>
     
   </entry>
   
   <entry>
     <title>Comandos indispensáveis do Git</title>
-    <link href="https://opensourcesolution.github.io/site/comandos-indispensaveis-do-git/"/>
-    <id>https://opensourcesolution.github.io/site/comandos-indispensaveis-do-git/</id>
+    <link href="https://opensourcesolution.github.io/comandos-indispensaveis-do-git/"/>
+    <id>https://opensourcesolution.github.io/comandos-indispensaveis-do-git/</id>
     <published>2019-06-29T01:09:08.000Z</published>
     <updated>2021-12-09T14:40:44.525Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/git_logo.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/git_logo.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Para aqueles que estão iniciando no mundo do versionamento, especificamente no git, abaixo um compilado dos principais comandos para não ficar perdido. Caso não saiba instalar o Git, acesse o post &lt;a href=&quot;https://opensourcesolution.com.br/git-instalacao-e-configuracao-com-github/&quot;&gt;Git - Instalação e Configuração com Github&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
     
-    <category term="Git" scheme="https://opensourcesolution.github.io/site/categories/Git/"/>
+    <category term="Git" scheme="https://opensourcesolution.github.io/categories/Git/"/>
     
-    <category term="GitLab" scheme="https://opensourcesolution.github.io/site/categories/GitLab/"/>
+    <category term="GitLab" scheme="https://opensourcesolution.github.io/categories/GitLab/"/>
     
     
-    <category term="git" scheme="https://opensourcesolution.github.io/site/tags/git/"/>
+    <category term="git" scheme="https://opensourcesolution.github.io/tags/git/"/>
     
-    <category term="github" scheme="https://opensourcesolution.github.io/site/tags/github/"/>
+    <category term="github" scheme="https://opensourcesolution.github.io/tags/github/"/>
     
-    <category term="gitlab" scheme="https://opensourcesolution.github.io/site/tags/gitlab/"/>
+    <category term="gitlab" scheme="https://opensourcesolution.github.io/tags/gitlab/"/>
     
   </entry>
   
   <entry>
     <title>Arduino IDE - Compilação e Instalação.</title>
-    <link href="https://opensourcesolution.github.io/site/arduino-ide-compilacao-e-instalacao/"/>
-    <id>https://opensourcesolution.github.io/site/arduino-ide-compilacao-e-instalacao/</id>
+    <link href="https://opensourcesolution.github.io/arduino-ide-compilacao-e-instalacao/"/>
+    <id>https://opensourcesolution.github.io/arduino-ide-compilacao-e-instalacao/</id>
     <published>2019-04-21T05:05:44.000Z</published>
     <updated>2021-12-09T14:56:45.330Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/arduino_ide/arduino_logo.png&quot; title=&quot;logo arduino ide&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/arduino_ide/arduino_logo.png&quot; title=&quot;logo arduino ide&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O Arduino IDE (Ambiente de Desenvolvimento) é um software de código aberto multi-plataforma escrito em linguagem Java. Suporta as linguagens C e C ++ , possui um editor de texto para a escrita de códigos, uma área de mensagens, um console de texto, uma barra de ferramentas com botões para funções comuns e uma série de menus. Ele se conecta ao hardware Arduino e Genuino para carregar programas e se comunicar com eles. A IDE possui uma coleção de códigos (Biblioteca) que facilitam a conexão a um sensor, monitor, módulo etc.&lt;/p&gt;
 &lt;h4 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;1 -&lt;/strong&gt; Baixe o source a partir do &lt;a href=&quot;https://github.com/arduino/Arduino/releases&quot;&gt;github do projeto&lt;/a&gt;, neste tutorial baixamos a última release.&lt;/p&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ &lt;span class=&quot;built_in&quot;&gt;cd&lt;/span&gt; /tmp&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;$ wget -c https://github.com/arduino/Arduino/releases/download/1.8.9/arduino-1.8.9.tar.xz&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
     
-    <category term="Arduino" scheme="https://opensourcesolution.github.io/site/categories/Arduino/"/>
+    <category term="Arduino" scheme="https://opensourcesolution.github.io/categories/Arduino/"/>
     
     
-    <category term="ide" scheme="https://opensourcesolution.github.io/site/tags/ide/"/>
+    <category term="ide" scheme="https://opensourcesolution.github.io/tags/ide/"/>
     
-    <category term="java" scheme="https://opensourcesolution.github.io/site/tags/java/"/>
+    <category term="java" scheme="https://opensourcesolution.github.io/tags/java/"/>
     
-    <category term="programacao" scheme="https://opensourcesolution.github.io/site/tags/programacao/"/>
+    <category term="programacao" scheme="https://opensourcesolution.github.io/tags/programacao/"/>
     
-    <category term="arduino" scheme="https://opensourcesolution.github.io/site/tags/arduino/"/>
+    <category term="arduino" scheme="https://opensourcesolution.github.io/tags/arduino/"/>
     
-    <category term="c++" scheme="https://opensourcesolution.github.io/site/tags/c/"/>
+    <category term="c++" scheme="https://opensourcesolution.github.io/tags/c/"/>
     
   </entry>
   
   <entry>
     <title>Cacti no Debian 9</title>
-    <link href="https://opensourcesolution.github.io/site/cacti-no-debian-9/"/>
-    <id>https://opensourcesolution.github.io/site/cacti-no-debian-9/</id>
+    <link href="https://opensourcesolution.github.io/cacti-no-debian-9/"/>
+    <id>https://opensourcesolution.github.io/cacti-no-debian-9/</id>
     <published>2019-04-20T04:56:05.000Z</published>
     <updated>2021-12-09T15:59:03.519Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/cacti/cacti_logo.png&quot; title=&quot;cacti logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/cacti/cacti_logo.png&quot; title=&quot;cacti logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O Cacti é uma interface completa para o RRDTool, ele armazena todas as informações necessárias para criar gráficos e preenchê-los com dados em um banco de dados MySQL. O frontend é completamente baseado em PHP. Além de poder manter gráficos, fontes de dados e arquivos Round Robin em um banco de dados, o Cacti lida com a coleta de dados. Há também suporte a SNMP para aqueles que estão acostumados a criar gráficos de tráfego com o MRTG.&lt;/p&gt;
 &lt;h4 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h4&gt;&lt;p&gt;O Cacti requer que os seguintes softwares estejam instalados em seu sistema.&lt;/p&gt;
 &lt;p&gt;RRDTool 1.0.49 ou maior, recomendado 1.4+;&lt;br&gt;&lt;strong&gt;(Opcional)&lt;/strong&gt; Spine 1.2.2;&lt;br&gt;MySQL 5.x ou maior;&lt;br&gt;PHP 5.1 ou maior;&lt;br&gt;Web Server Apache;&lt;/p&gt;
@@ -254,27 +254,27 @@
     
     
     
-    <category term="Cacti" scheme="https://opensourcesolution.github.io/site/categories/Cacti/"/>
+    <category term="Cacti" scheme="https://opensourcesolution.github.io/categories/Cacti/"/>
     
     
-    <category term="redes" scheme="https://opensourcesolution.github.io/site/tags/redes/"/>
+    <category term="redes" scheme="https://opensourcesolution.github.io/tags/redes/"/>
     
-    <category term="cacti" scheme="https://opensourcesolution.github.io/site/tags/cacti/"/>
+    <category term="cacti" scheme="https://opensourcesolution.github.io/tags/cacti/"/>
     
-    <category term="mrtg" scheme="https://opensourcesolution.github.io/site/tags/mrtg/"/>
+    <category term="mrtg" scheme="https://opensourcesolution.github.io/tags/mrtg/"/>
     
-    <category term="ping" scheme="https://opensourcesolution.github.io/site/tags/ping/"/>
+    <category term="ping" scheme="https://opensourcesolution.github.io/tags/ping/"/>
     
-    <category term="rdtools" scheme="https://opensourcesolution.github.io/site/tags/rdtools/"/>
+    <category term="rdtools" scheme="https://opensourcesolution.github.io/tags/rdtools/"/>
     
-    <category term="snmp" scheme="https://opensourcesolution.github.io/site/tags/snmp/"/>
+    <category term="snmp" scheme="https://opensourcesolution.github.io/tags/snmp/"/>
     
   </entry>
   
   <entry>
     <title>Criação de Sites</title>
-    <link href="https://opensourcesolution.github.io/site/criacao-de-sites/"/>
-    <id>https://opensourcesolution.github.io/site/criacao-de-sites/</id>
+    <link href="https://opensourcesolution.github.io/criacao-de-sites/"/>
+    <id>https://opensourcesolution.github.io/criacao-de-sites/</id>
     <published>2018-12-11T05:54:44.000Z</published>
     <updated>2021-12-09T15:54:17.742Z</updated>
     
@@ -283,33 +283,33 @@
       
         
         
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/criacao_de_site/criacao-de-site.png&quot; title=&quot;imagem criação de sites&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/criacao_de_site/criacao-de-site.png&quot; title=&quot;imagem criação de sites&quot;&gt;&lt;/p&gt;
 &lt;h1</summary>
         
       
     
     
     
-    <category term="Anúncios" scheme="https://opensourcesolution.github.io/site/categories/Anuncios/"/>
+    <category term="Anúncios" scheme="https://opensourcesolution.github.io/categories/Anuncios/"/>
     
     
-    <category term="php" scheme="https://opensourcesolution.github.io/site/tags/php/"/>
+    <category term="php" scheme="https://opensourcesolution.github.io/tags/php/"/>
     
-    <category term="criação de sites" scheme="https://opensourcesolution.github.io/site/tags/criacao-de-sites/"/>
+    <category term="criação de sites" scheme="https://opensourcesolution.github.io/tags/criacao-de-sites/"/>
     
-    <category term="wordpress" scheme="https://opensourcesolution.github.io/site/tags/wordpress/"/>
+    <category term="wordpress" scheme="https://opensourcesolution.github.io/tags/wordpress/"/>
     
   </entry>
   
   <entry>
     <title>PyCharm - Uma IDE leve para Python</title>
-    <link href="https://opensourcesolution.github.io/site/pycharm-uma-ide-leve-para-python/"/>
-    <id>https://opensourcesolution.github.io/site/pycharm-uma-ide-leve-para-python/</id>
+    <link href="https://opensourcesolution.github.io/pycharm-uma-ide-leve-para-python/"/>
+    <id>https://opensourcesolution.github.io/pycharm-uma-ide-leve-para-python/</id>
     <published>2018-07-26T08:10:02.000Z</published>
     <updated>2021-12-09T22:41:21.645Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/pycharm/pycharm_logo.png&quot; title=&quot;Pycharm logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/pycharm/pycharm_logo.png&quot; title=&quot;Pycharm logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O PyCharm é um IDE do Python com um conjunto completo de ferramentas para o desenvolvimento do Python. Além disso, o IDE fornece recursos para desenvolvimento profissional da Web usando o framework Django, e ainda fornece suporte para JavaScript, CoffeeScript, TypeScript, CSS. Estão disponíveis duas versões do PyCharm, uma Profissional e outra Community Edition (Free e Open Source).  Neste post vamos aprender a instalar a versão Community Edition no Linux Mint 18.3 (Silvia), distribuição derivada do Ubuntu.&lt;/p&gt;
 &lt;h3 id=&quot;Requerimento-de-hardware&quot;&gt;&lt;a href=&quot;#Requerimento-de-hardware&quot; class=&quot;headerlink&quot; title=&quot;Requerimento de hardware&quot;&gt;&lt;/a&gt;Requerimento de hardware&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;4 GB de RAM no mínimo, 8GB de RAM recomendados;&lt;/li&gt;
@@ -319,96 +319,96 @@
     
     
     
-    <category term="Programação" scheme="https://opensourcesolution.github.io/site/categories/Programacao/"/>
+    <category term="Programação" scheme="https://opensourcesolution.github.io/categories/Programacao/"/>
     
-    <category term="PyCharm" scheme="https://opensourcesolution.github.io/site/categories/PyCharm/"/>
+    <category term="PyCharm" scheme="https://opensourcesolution.github.io/categories/PyCharm/"/>
     
     
-    <category term="ide" scheme="https://opensourcesolution.github.io/site/tags/ide/"/>
+    <category term="ide" scheme="https://opensourcesolution.github.io/tags/ide/"/>
     
-    <category term="programacao" scheme="https://opensourcesolution.github.io/site/tags/programacao/"/>
+    <category term="programacao" scheme="https://opensourcesolution.github.io/tags/programacao/"/>
     
-    <category term="pycharm" scheme="https://opensourcesolution.github.io/site/tags/pycharm/"/>
+    <category term="pycharm" scheme="https://opensourcesolution.github.io/tags/pycharm/"/>
     
-    <category term="python" scheme="https://opensourcesolution.github.io/site/tags/python/"/>
+    <category term="python" scheme="https://opensourcesolution.github.io/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>Visual Studio Code - Instalação e Configuração.</title>
-    <link href="https://opensourcesolution.github.io/site/visual-studio-code-instalacao-e-configuracao/"/>
-    <id>https://opensourcesolution.github.io/site/visual-studio-code-instalacao-e-configuracao/</id>
+    <link href="https://opensourcesolution.github.io/visual-studio-code-instalacao-e-configuracao/"/>
+    <id>https://opensourcesolution.github.io/visual-studio-code-instalacao-e-configuracao/</id>
     <published>2018-05-05T15:08:56.000Z</published>
     <updated>2021-12-09T17:57:03.622Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/vscode/vscode_logo.png&quot; title=&quot;VSCode logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/vscode/vscode_logo.png&quot; title=&quot;VSCode logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O Visual Studio Code, que atualmente esta na versão 1.23, é um editor de código-fonte leve, mas poderoso, que é executado em sua área de trabalho e está disponível para Windows, macOS e Linux. Ele é open source e vem com suporte embutido para JavaScript, TypeScript e Node.js e possui um rico ecossistema de extensões para outras linguagens (como C++, C#, Java, Python, PHP, Go) e runtimes ( como .NET e Unity).&lt;/p&gt;
 &lt;p&gt;Neste post vamos aprender a instalar este incrível editor em distribuições baseadas no Debian, e instalaremos também as suas extensões mais populares.&lt;/p&gt;</summary>
     
     
     
-    <category term="Editores" scheme="https://opensourcesolution.github.io/site/categories/Editores/"/>
+    <category term="Editores" scheme="https://opensourcesolution.github.io/categories/Editores/"/>
     
-    <category term="VS Code" scheme="https://opensourcesolution.github.io/site/categories/VS-Code/"/>
+    <category term="VS Code" scheme="https://opensourcesolution.github.io/categories/VS-Code/"/>
     
     
-    <category term="java" scheme="https://opensourcesolution.github.io/site/tags/java/"/>
+    <category term="java" scheme="https://opensourcesolution.github.io/tags/java/"/>
     
-    <category term="c++" scheme="https://opensourcesolution.github.io/site/tags/c/"/>
+    <category term="c++" scheme="https://opensourcesolution.github.io/tags/c/"/>
     
-    <category term="git" scheme="https://opensourcesolution.github.io/site/tags/git/"/>
+    <category term="git" scheme="https://opensourcesolution.github.io/tags/git/"/>
     
-    <category term="php7" scheme="https://opensourcesolution.github.io/site/tags/php7/"/>
+    <category term="php7" scheme="https://opensourcesolution.github.io/tags/php7/"/>
     
-    <category term="editor" scheme="https://opensourcesolution.github.io/site/tags/editor/"/>
+    <category term="editor" scheme="https://opensourcesolution.github.io/tags/editor/"/>
     
-    <category term="VS Code" scheme="https://opensourcesolution.github.io/site/tags/VS-Code/"/>
+    <category term="VS Code" scheme="https://opensourcesolution.github.io/tags/VS-Code/"/>
     
   </entry>
   
   <entry>
     <title>Docker Compose - Instalação e utilização.</title>
-    <link href="https://opensourcesolution.github.io/site/docker-compose-instalacao-e-utilizacao/"/>
-    <id>https://opensourcesolution.github.io/site/docker-compose-instalacao-e-utilizacao/</id>
+    <link href="https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/"/>
+    <id>https://opensourcesolution.github.io/docker-compose-instalacao-e-utilizacao/</id>
     <published>2018-03-22T01:31:18.000Z</published>
     <updated>2021-12-09T20:00:46.379Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/docker_compose/docker_compose_logo.png&quot; title=&quot;Docker logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/docker_compose/docker_compose_logo.png&quot; title=&quot;Docker logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O Docker Compose é uma ferramenta que permite definir e executar ambientes do Docker com vários contêineres. Pode configurar seus serviços de aplicativo em um arquivo de composição e, em seguida, iniciar e interromper todos os serviços desse arquivo. Os arquivos  de configuração devem ser criados com extensões &lt;strong&gt;.yml&lt;/strong&gt; ou &lt;strong&gt;.yaml&lt;/strong&gt; para que possa ser lido. Neste post aprenderemos a instalar e configurar o Docker Compose, e realizaremos a instalação de dois contêineres utilizando a ferramenta.&lt;/p&gt;
 &lt;h4 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h4&gt;&lt;p&gt;Pré-requisitos: &lt;a href=&quot;https://opensourcesolution.com.br/docker-obtenha-conteineres-de-seus-aplicativos/&quot;&gt;Docker&lt;/a&gt;, &lt;a href=&quot;https://opensourcesolution.com.br/debian-8-jessie-instalacao/&quot;&gt;Debian 64bits&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;O Docker Compose deve ser baixado do site do projeto no Github. O comando abaixo realiza o download e move-o para a pasta /usr/bin. Lembrando que em primeiro lugar é necessário ter instalado o Docker Engine.&lt;/p&gt;
+&lt;p&gt;O Docker Compose deve ser baixado do site do projeto no Github. O comando abaixo realiza o download e move-o para a pasta &amp;#x2F;usr&amp;#x2F;bin. Lembrando que em primeiro lugar é necessário ter instalado o Docker Engine.&lt;/p&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# curl -L https://github.com/docker/compose/releases/download/1.19.0/docker-compose-`uname -s`-`uname -m` -o /usr/bin/docker-compose&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;p&gt;Dê Permissão de execução ao binário baixado.&lt;/p&gt;</summary>
     
     
     
-    <category term="Docker" scheme="https://opensourcesolution.github.io/site/categories/Docker/"/>
+    <category term="Docker" scheme="https://opensourcesolution.github.io/categories/Docker/"/>
     
-    <category term="Docker Compose" scheme="https://opensourcesolution.github.io/site/categories/Docker-Compose/"/>
+    <category term="Docker Compose" scheme="https://opensourcesolution.github.io/categories/Docker-Compose/"/>
     
     
-    <category term="contêineres" scheme="https://opensourcesolution.github.io/site/tags/conteineres/"/>
+    <category term="contêineres" scheme="https://opensourcesolution.github.io/tags/conteineres/"/>
     
-    <category term="docker-comopose" scheme="https://opensourcesolution.github.io/site/tags/docker-comopose/"/>
+    <category term="docker-comopose" scheme="https://opensourcesolution.github.io/tags/docker-comopose/"/>
     
-    <category term="images" scheme="https://opensourcesolution.github.io/site/tags/images/"/>
+    <category term="images" scheme="https://opensourcesolution.github.io/tags/images/"/>
     
-    <category term="virtualização" scheme="https://opensourcesolution.github.io/site/tags/virtualizacao/"/>
+    <category term="virtualização" scheme="https://opensourcesolution.github.io/tags/virtualizacao/"/>
     
   </entry>
   
   <entry>
     <title>KeePass 2.38 - Gerencie suas senhas.</title>
-    <link href="https://opensourcesolution.github.io/site/keepass-2-38-gerencie-suas-senhas/"/>
-    <id>https://opensourcesolution.github.io/site/keepass-2-38-gerencie-suas-senhas/</id>
+    <link href="https://opensourcesolution.github.io/keepass-2-38-gerencie-suas-senhas/"/>
+    <id>https://opensourcesolution.github.io/keepass-2-38-gerencie-suas-senhas/</id>
     <published>2018-03-08T05:39:36.000Z</published>
     <updated>2021-12-09T19:40:07.325Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/keepass2/keepass_logo.png&quot; title=&quot;Keepass2 logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/keepass2/keepass_logo.png&quot; title=&quot;Keepass2 logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O KeePass é um gerenciador de senhas de código aberto e gratuito que permite armazenar senhas, nome de usuários, contas de e-mails, etc, em um banco de dados criptografado e salvo localmente, protegido por uma senha mestra, sendo a única que deveremos memorizar, evitando assim a utilização da mesma senha para muitos serviços. Caso não queira utilizar uma senha, pode-se criar um arquivo de chave para acesso ao banco.&lt;/p&gt;
 &lt;p&gt;O aplicativo é multiplataforma, podendo ser instalado em Windows, Linux, Mac OS X, BSD.  Neste tutorial aprenderemos a instalar no derivados do Debian, por meio de PPA.&lt;/p&gt;
 &lt;h4 id=&quot;Veja-alguns-recursos&quot;&gt;&lt;a href=&quot;#Veja-alguns-recursos&quot; class=&quot;headerlink&quot; title=&quot;Veja alguns recursos:&quot;&gt;&lt;/a&gt;Veja alguns recursos:&lt;/h4&gt;&lt;ul&gt;
@@ -425,74 +425,74 @@
     
     
     
-    <category term="KeePass 2" scheme="https://opensourcesolution.github.io/site/categories/KeePass-2/"/>
+    <category term="KeePass 2" scheme="https://opensourcesolution.github.io/categories/KeePass-2/"/>
     
     
-    <category term="banco de dados" scheme="https://opensourcesolution.github.io/site/tags/banco-de-dados/"/>
+    <category term="banco de dados" scheme="https://opensourcesolution.github.io/tags/banco-de-dados/"/>
     
-    <category term="gerenciador de senhas" scheme="https://opensourcesolution.github.io/site/tags/gerenciador-de-senhas/"/>
+    <category term="gerenciador de senhas" scheme="https://opensourcesolution.github.io/tags/gerenciador-de-senhas/"/>
     
-    <category term="keepass" scheme="https://opensourcesolution.github.io/site/tags/keepass/"/>
+    <category term="keepass" scheme="https://opensourcesolution.github.io/tags/keepass/"/>
     
-    <category term="keepass2" scheme="https://opensourcesolution.github.io/site/tags/keepass2/"/>
+    <category term="keepass2" scheme="https://opensourcesolution.github.io/tags/keepass2/"/>
     
-    <category term="senha" scheme="https://opensourcesolution.github.io/site/tags/senha/"/>
+    <category term="senha" scheme="https://opensourcesolution.github.io/tags/senha/"/>
     
   </entry>
   
   <entry>
     <title>Docker - Obtenha contêineres de seus aplicativos.</title>
-    <link href="https://opensourcesolution.github.io/site/docker-obtenha-conteineres-de-seus-aplicativos/"/>
-    <id>https://opensourcesolution.github.io/site/docker-obtenha-conteineres-de-seus-aplicativos/</id>
+    <link href="https://opensourcesolution.github.io/docker-obtenha-conteineres-de-seus-aplicativos/"/>
+    <id>https://opensourcesolution.github.io/docker-obtenha-conteineres-de-seus-aplicativos/</id>
     <published>2018-03-05T04:19:35.000Z</published>
     <updated>2021-12-09T20:19:42.740Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/docker/docker_logo.png&quot; title=&quot;Docker logo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;O Docker é uma ferramenta projetada para facilitar a criação, implantação e execução de aplicativos usando contêineres. Os recipientes/contêineres permitem que um desenvolvedor empacote um aplicativo com todas as peças que ele precisa, como bibliotecas e outras dependências, e envie tudo como um pacote. Ao fazê-lo, graças ao recipiente, o desenvolvedor pode ter certeza de que o aplicativo será executado em qualquer outra máquina Linux, independentemente de quaisquer configurações personalizadas que a máquina possa ter.&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/docker/docker_logo.png&quot; title=&quot;Docker logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;O Docker é uma ferramenta projetada para facilitar a criação, implantação e execução de aplicativos usando contêineres. Os recipientes&amp;#x2F;contêineres permitem que um desenvolvedor empacote um aplicativo com todas as peças que ele precisa, como bibliotecas e outras dependências, e envie tudo como um pacote. Ao fazê-lo, graças ao recipiente, o desenvolvedor pode ter certeza de que o aplicativo será executado em qualquer outra máquina Linux, independentemente de quaisquer configurações personalizadas que a máquina possa ter.&lt;/p&gt;
 &lt;p&gt;Docker está disponível em duas edições: &lt;a href=&quot;https://www.docker.com/community-edition&quot;&gt;&lt;strong&gt;Community Edition (CE)&lt;/strong&gt;&lt;/a&gt; e &lt;a href=&quot;https://www.docker.com/enterprise-edition&quot;&gt;&lt;strong&gt;Enterprise Edition (EE)&lt;/strong&gt;&lt;/a&gt;. Neste post utilizaremos a edição CE, a versão CE é indicada para desenvolvedores e pequenas equipes que procuram iniciar com Docker e experimentar aplicativos baseados em contêiner.&lt;/p&gt;
 &lt;p&gt;Neste post vamos aprender a realizar a instalação do Docker e de dois contêineres, o Wordpress e o MariaDB.&lt;/p&gt;
-&lt;h2 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h2&gt;&lt;p&gt;Requerimentos: &lt;a href=&quot;https://opensourcesolution.com.br/debian-8-jessie-instalacao/&quot;&gt;GNU/Linux Debian 64Bits&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h2&gt;&lt;p&gt;Requerimentos: &lt;a href=&quot;https://opensourcesolution.com.br/debian-8-jessie-instalacao/&quot;&gt;GNU&amp;#x2F;Linux Debian 64Bits&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;O Docker possui dois canais de atualização, o Stable, para atualizações a cada trimestre e o Edge para atualizações mensais.&lt;/p&gt;
 &lt;p&gt;Nossa instalação será por meio do repositório oficial:&lt;/p&gt;
 &lt;h2 id=&quot;Versao-Jessie-ou-mais-recente&quot;&gt;&lt;a href=&quot;#Versao-Jessie-ou-mais-recente&quot; class=&quot;headerlink&quot; title=&quot;Versão Jessie ou mais recente:&quot;&gt;&lt;/a&gt;Versão Jessie ou mais recente:&lt;/h2&gt;&lt;p&gt;Inicialmente instale os pacotes para permitir adicionar o repositório em HTTPS.&lt;/p&gt;</summary>
     
     
     
-    <category term="Docker" scheme="https://opensourcesolution.github.io/site/categories/Docker/"/>
+    <category term="Docker" scheme="https://opensourcesolution.github.io/categories/Docker/"/>
     
-    <category term="Virtualização" scheme="https://opensourcesolution.github.io/site/categories/Virtualizacao/"/>
+    <category term="Virtualização" scheme="https://opensourcesolution.github.io/categories/Virtualizacao/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="wordpress" scheme="https://opensourcesolution.github.io/site/tags/wordpress/"/>
+    <category term="wordpress" scheme="https://opensourcesolution.github.io/tags/wordpress/"/>
     
-    <category term="contêineres" scheme="https://opensourcesolution.github.io/site/tags/conteineres/"/>
+    <category term="contêineres" scheme="https://opensourcesolution.github.io/tags/conteineres/"/>
     
-    <category term="images" scheme="https://opensourcesolution.github.io/site/tags/images/"/>
+    <category term="images" scheme="https://opensourcesolution.github.io/tags/images/"/>
     
-    <category term="virtualização" scheme="https://opensourcesolution.github.io/site/tags/virtualizacao/"/>
+    <category term="virtualização" scheme="https://opensourcesolution.github.io/tags/virtualizacao/"/>
     
-    <category term="docker" scheme="https://opensourcesolution.github.io/site/tags/docker/"/>
+    <category term="docker" scheme="https://opensourcesolution.github.io/tags/docker/"/>
     
-    <category term="mariadb" scheme="https://opensourcesolution.github.io/site/tags/mariadb/"/>
+    <category term="mariadb" scheme="https://opensourcesolution.github.io/tags/mariadb/"/>
     
-    <category term="mariadb-server" scheme="https://opensourcesolution.github.io/site/tags/mariadb-server/"/>
+    <category term="mariadb-server" scheme="https://opensourcesolution.github.io/tags/mariadb-server/"/>
     
-    <category term="nuvem" scheme="https://opensourcesolution.github.io/site/tags/nuvem/"/>
+    <category term="nuvem" scheme="https://opensourcesolution.github.io/tags/nuvem/"/>
     
   </entry>
   
   <entry>
     <title>PrestaShop - Tenha sua própria loja Virtual.</title>
-    <link href="https://opensourcesolution.github.io/site/prestashop-tenha-sua-propria-loja-virtual/"/>
-    <id>https://opensourcesolution.github.io/site/prestashop-tenha-sua-propria-loja-virtual/</id>
+    <link href="https://opensourcesolution.github.io/prestashop-tenha-sua-propria-loja-virtual/"/>
+    <id>https://opensourcesolution.github.io/prestashop-tenha-sua-propria-loja-virtual/</id>
     <published>2018-02-26T08:44:30.000Z</published>
     <updated>2021-12-09T21:07:28.089Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/prestashop/prestashop_logo.png&quot; title=&quot;Prestashop logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/prestashop/prestashop_logo.png&quot; title=&quot;Prestashop logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Quer ter um site de e-commerce? Então comece a vender on-line com o PrestaShop, este software incrível é Open Source, escrito em PHP e altamente personalizável, suporta todos os principais serviços de pagamento, possui suporte à vários idiomas e o seu design é totalmente responsivo. A instalação padrão da PrestaShop oferece um tema neutro em preto e branco, permitindo que os vendedores iniciem sua atividades de forma rápida e gratuita, qualquer que seja sua linha de negócio. Ainda podemos expandir as suas funcionalidades através de Add-Ons, que são criados por membros da comunidade PrestaShop ou PrestaTeam, e são vendidos a preços razoáveis ​​- alguns são até gratuitos.&lt;/p&gt;
 &lt;h2 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h2&gt;&lt;p&gt;Requerimentos: &lt;/p&gt;
 &lt;ul&gt;
@@ -506,32 +506,32 @@
     
     
     
-    <category term="E-Commerce" scheme="https://opensourcesolution.github.io/site/categories/E-Commerce/"/>
+    <category term="E-Commerce" scheme="https://opensourcesolution.github.io/categories/E-Commerce/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="php" scheme="https://opensourcesolution.github.io/site/tags/php/"/>
+    <category term="php" scheme="https://opensourcesolution.github.io/tags/php/"/>
     
-    <category term="mariadb-server" scheme="https://opensourcesolution.github.io/site/tags/mariadb-server/"/>
+    <category term="mariadb-server" scheme="https://opensourcesolution.github.io/tags/mariadb-server/"/>
     
-    <category term="debian9" scheme="https://opensourcesolution.github.io/site/tags/debian9/"/>
+    <category term="debian9" scheme="https://opensourcesolution.github.io/tags/debian9/"/>
     
-    <category term="e-commerce" scheme="https://opensourcesolution.github.io/site/tags/e-commerce/"/>
+    <category term="e-commerce" scheme="https://opensourcesolution.github.io/tags/e-commerce/"/>
     
-    <category term="loja virtual" scheme="https://opensourcesolution.github.io/site/tags/loja-virtual/"/>
+    <category term="loja virtual" scheme="https://opensourcesolution.github.io/tags/loja-virtual/"/>
     
   </entry>
   
   <entry>
     <title>ownCloud -  Tenha seu próprio servidor Cloud.</title>
-    <link href="https://opensourcesolution.github.io/site/owncloud-tenha-seu-proprio-servidor-cloud/"/>
-    <id>https://opensourcesolution.github.io/site/owncloud-tenha-seu-proprio-servidor-cloud/</id>
+    <link href="https://opensourcesolution.github.io/owncloud-tenha-seu-proprio-servidor-cloud/"/>
+    <id>https://opensourcesolution.github.io/owncloud-tenha-seu-proprio-servidor-cloud/</id>
     <published>2018-01-31T02:45:36.000Z</published>
     <updated>2021-12-09T22:05:17.462Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/owncloud/owncloud_logo.png&quot; title=&quot;OwnCloud logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/owncloud/owncloud_logo.png&quot; title=&quot;OwnCloud logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O ownCloud é um software de código aberto que permite acessar seus arquivos, calendários, contatos, e-mails, além de permitir compartilhar um ou mais arquivos e pastas em seu computador e sincronizá-los com o seu servidor Cloud próprio. O ownCloud fornece acesso fácil a todos os seus dados - sempre que desejar, onde quiser.&lt;/p&gt;
 &lt;p&gt;Oferece clientes móveis em Android e iOS, bem como clientes de sincronização de desktop Windows, Mac e Linux. Carregue automaticamente suas fotos e vídeos e sincronize arquivos e pastas selecionados. Todas as transferências de dados são altamente protegidas por criptografia SSL.&lt;/p&gt;
 &lt;p&gt;Convide seus colegas para trabalhar ou compartilhar arquivos. Envie links públicos protegidos por senha para que outros possam enviar arquivos para você. Seja notificado no seu telefone quando você receber um compartilhamento do seu próprio servidor ou outro servidor próprio. Compartilhe com qualquer pessoa por e-mail usando o recurso de convidados. O ownCloud fornece poderosas ferramentas de gerenciamento de permissões para controlar exatamente quem pode acessar seus arquivos. Colaboração facilitada. Focado em você.&lt;/p&gt;
@@ -543,44 +543,44 @@
 &lt;li&gt;&lt;a href=&quot;https://opensourcesolution.com.br/mariadb-substituto-para-o-mysql/&quot;&gt;MySQL or MariaDB 5.5+&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;  &lt;strong&gt;Repositório&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Repositório&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Pelo terminal, com acesso root adicionamos a chave pública com os comandos abaixo:&lt;/p&gt;</summary>
     
     
     
-    <category term="Nuvem" scheme="https://opensourcesolution.github.io/site/categories/Nuvem/"/>
+    <category term="Nuvem" scheme="https://opensourcesolution.github.io/categories/Nuvem/"/>
     
-    <category term="OwnCloud" scheme="https://opensourcesolution.github.io/site/categories/OwnCloud/"/>
+    <category term="OwnCloud" scheme="https://opensourcesolution.github.io/categories/OwnCloud/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="nuvem" scheme="https://opensourcesolution.github.io/site/tags/nuvem/"/>
+    <category term="nuvem" scheme="https://opensourcesolution.github.io/tags/nuvem/"/>
     
-    <category term="cloud" scheme="https://opensourcesolution.github.io/site/tags/cloud/"/>
+    <category term="cloud" scheme="https://opensourcesolution.github.io/tags/cloud/"/>
     
-    <category term="mint18" scheme="https://opensourcesolution.github.io/site/tags/mint18/"/>
+    <category term="mint18" scheme="https://opensourcesolution.github.io/tags/mint18/"/>
     
-    <category term="owncloud" scheme="https://opensourcesolution.github.io/site/tags/owncloud/"/>
+    <category term="owncloud" scheme="https://opensourcesolution.github.io/tags/owncloud/"/>
     
-    <category term="sincronismo" scheme="https://opensourcesolution.github.io/site/tags/sincronismo/"/>
+    <category term="sincronismo" scheme="https://opensourcesolution.github.io/tags/sincronismo/"/>
     
   </entry>
   
   <entry>
     <title>Laravel - Instale um Poderoso Framework PHP.</title>
-    <link href="https://opensourcesolution.github.io/site/laravel-instale-um-poderoso-framework-php/"/>
-    <id>https://opensourcesolution.github.io/site/laravel-instale-um-poderoso-framework-php/</id>
+    <link href="https://opensourcesolution.github.io/laravel-instale-um-poderoso-framework-php/"/>
+    <id>https://opensourcesolution.github.io/laravel-instale-um-poderoso-framework-php/</id>
     <published>2018-01-28T01:32:48.000Z</published>
     <updated>2021-12-09T22:23:00.159Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/laravel/laravel_logo.png&quot; title=&quot;laravel logo&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/laravel/laravel_logo.png&quot; title=&quot;laravel logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Laravel é um framework PHP livre e Open source para o desenvolvimento de sistemas web que utilizam o padrão MVC (model, view, controller). Neste tutorial utilizamos a distribuição Linux Mint 18.&lt;/p&gt;
 &lt;h4 id=&quot;Pre-requisitos&quot;&gt;&lt;a href=&quot;#Pre-requisitos&quot; class=&quot;headerlink&quot; title=&quot;Pré-requisitos:&quot;&gt;&lt;/a&gt;&lt;strong&gt;Pré-requisitos:&lt;/strong&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://opensourcesolution.com.br/apache-web-server-no-mint-ubuntu/&quot;&gt;Web Apache&lt;/a&gt; ou Nginx&lt;/li&gt;
-&lt;li&gt;PHP &amp;gt;= 7.0.0 - OpenSSL PHP Extension &lt;/li&gt;
+&lt;li&gt;PHP &amp;gt;&amp;#x3D; 7.0.0 - OpenSSL PHP Extension &lt;/li&gt;
 &lt;li&gt;PDO PHP Extension &lt;/li&gt;
 &lt;li&gt;Mbstring PHP Extension &lt;/li&gt;
 &lt;li&gt;Tokenizer PHP Extension &lt;/li&gt;
@@ -597,36 +597,36 @@
     
     
     
-    <category term="Framework" scheme="https://opensourcesolution.github.io/site/categories/Framework/"/>
+    <category term="Framework" scheme="https://opensourcesolution.github.io/categories/Framework/"/>
     
-    <category term="Laravel" scheme="https://opensourcesolution.github.io/site/categories/Laravel/"/>
+    <category term="Laravel" scheme="https://opensourcesolution.github.io/categories/Laravel/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="composer" scheme="https://opensourcesolution.github.io/site/tags/composer/"/>
+    <category term="composer" scheme="https://opensourcesolution.github.io/tags/composer/"/>
     
-    <category term="php" scheme="https://opensourcesolution.github.io/site/tags/php/"/>
+    <category term="php" scheme="https://opensourcesolution.github.io/tags/php/"/>
     
-    <category term="apache" scheme="https://opensourcesolution.github.io/site/tags/apache/"/>
+    <category term="apache" scheme="https://opensourcesolution.github.io/tags/apache/"/>
     
-    <category term="framework" scheme="https://opensourcesolution.github.io/site/tags/framework/"/>
+    <category term="framework" scheme="https://opensourcesolution.github.io/tags/framework/"/>
     
-    <category term="laravel" scheme="https://opensourcesolution.github.io/site/tags/laravel/"/>
+    <category term="laravel" scheme="https://opensourcesolution.github.io/tags/laravel/"/>
     
-    <category term="nginx" scheme="https://opensourcesolution.github.io/site/tags/nginx/"/>
+    <category term="nginx" scheme="https://opensourcesolution.github.io/tags/nginx/"/>
     
   </entry>
   
   <entry>
     <title>Veyon - Gerencie sua sala de aula.</title>
-    <link href="https://opensourcesolution.github.io/site/veyon-gerencie-sua-sala-de-aula/"/>
-    <id>https://opensourcesolution.github.io/site/veyon-gerencie-sua-sala-de-aula/</id>
+    <link href="https://opensourcesolution.github.io/veyon-gerencie-sua-sala-de-aula/"/>
+    <id>https://opensourcesolution.github.io/veyon-gerencie-sua-sala-de-aula/</id>
     <published>2018-01-23T20:38:20.000Z</published>
     <updated>2021-12-09T23:18:50.300Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/veyon/veyon_logo.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/veyon/veyon_logo.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;O Veyon é um software gratuito e de código aberto para monitoramento de computadores e gerenciamento de sala de aula, suporta Windows e Linux. Permite ao professor visualizar e controlar laboratórios de informática e interagir com os alunos. É o sucessor oficial do &lt;a href=&quot;http://italc.sourceforge.net/home.php&quot;&gt;iTALC&lt;/a&gt;, agora com um núcleo e arquitetura completamente reescrito e novos componentes que oferecem uma estabilidade e desempenho muito melhores. O Veyon está disponível em diferentes idiomas, oferecendo muitos recursos úteis:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Veja o que está acontecendo nos laboratórios de informática no modo de visão geral e tire screenshots;&lt;/li&gt;
@@ -634,59 +634,59 @@
 &lt;li&gt;Transmita a tela do professor para os alunos em tempo real usando o modo de demonstração (em tela cheia ou em uma janela);&lt;/li&gt;
 &lt;li&gt;Bloqueie estações de trabalho para atrair atenção para o professor;&lt;/li&gt;
 &lt;li&gt;Envie mensagens de texto para estudantes;&lt;/li&gt;
-&lt;li&gt;Ligar/desligar e reiniciar o computador remotamente;&lt;/li&gt;
+&lt;li&gt;Ligar&amp;#x2F;desligar e reiniciar o computador remotamente;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Neste post realizaremos a baixa do pacote diretamente do site do projeto, assim como, sua instalação e configuração. Neste tutorial utilizaremos as distribuições Ubuntu 16.04.3 e Linux Mint&lt;br&gt;18 e os S.O Windows 7 e 10. Acompanhe os passos abaixo.&lt;/p&gt;</summary>
     
     
     
-    <category term="Linux" scheme="https://opensourcesolution.github.io/site/categories/Linux/"/>
+    <category term="Linux" scheme="https://opensourcesolution.github.io/categories/Linux/"/>
     
-    <category term="Linux Mint" scheme="https://opensourcesolution.github.io/site/categories/Linux-Mint/"/>
+    <category term="Linux Mint" scheme="https://opensourcesolution.github.io/categories/Linux-Mint/"/>
     
-    <category term="Ubuntu" scheme="https://opensourcesolution.github.io/site/categories/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://opensourcesolution.github.io/categories/Ubuntu/"/>
     
-    <category term="Veyon" scheme="https://opensourcesolution.github.io/site/categories/Veyon/"/>
+    <category term="Veyon" scheme="https://opensourcesolution.github.io/categories/Veyon/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.github.io/site/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="gerenciamento" scheme="https://opensourcesolution.github.io/site/tags/gerenciamento/"/>
+    <category term="gerenciamento" scheme="https://opensourcesolution.github.io/tags/gerenciamento/"/>
     
-    <category term="remoto" scheme="https://opensourcesolution.github.io/site/tags/remoto/"/>
+    <category term="remoto" scheme="https://opensourcesolution.github.io/tags/remoto/"/>
     
-    <category term="windows" scheme="https://opensourcesolution.github.io/site/tags/windows/"/>
+    <category term="windows" scheme="https://opensourcesolution.github.io/tags/windows/"/>
     
-    <category term="acesso remoto" scheme="https://opensourcesolution.github.io/site/tags/acesso-remoto/"/>
+    <category term="acesso remoto" scheme="https://opensourcesolution.github.io/tags/acesso-remoto/"/>
     
-    <category term="aula" scheme="https://opensourcesolution.github.io/site/tags/aula/"/>
+    <category term="aula" scheme="https://opensourcesolution.github.io/tags/aula/"/>
     
-    <category term="escola" scheme="https://opensourcesolution.github.io/site/tags/escola/"/>
+    <category term="escola" scheme="https://opensourcesolution.github.io/tags/escola/"/>
     
-    <category term="informatica" scheme="https://opensourcesolution.github.io/site/tags/informatica/"/>
+    <category term="informatica" scheme="https://opensourcesolution.github.io/tags/informatica/"/>
     
-    <category term="laboratorio" scheme="https://opensourcesolution.github.io/site/tags/laboratorio/"/>
+    <category term="laboratorio" scheme="https://opensourcesolution.github.io/tags/laboratorio/"/>
     
-    <category term="professores" scheme="https://opensourcesolution.github.io/site/tags/professores/"/>
+    <category term="professores" scheme="https://opensourcesolution.github.io/tags/professores/"/>
     
-    <category term="sala de aula" scheme="https://opensourcesolution.github.io/site/tags/sala-de-aula/"/>
+    <category term="sala de aula" scheme="https://opensourcesolution.github.io/tags/sala-de-aula/"/>
     
-    <category term="veyon" scheme="https://opensourcesolution.github.io/site/tags/veyon/"/>
+    <category term="veyon" scheme="https://opensourcesolution.github.io/tags/veyon/"/>
     
   </entry>
   
   <entry>
     <title>MultiSystem - Crie seu Pendrive bootável</title>
-    <link href="https://opensourcesolution.github.io/site/multisystem-crie-seu-pendrive-bootavel/"/>
-    <id>https://opensourcesolution.github.io/site/multisystem-crie-seu-pendrive-bootavel/</id>
+    <link href="https://opensourcesolution.github.io/multisystem-crie-seu-pendrive-bootavel/"/>
+    <id>https://opensourcesolution.github.io/multisystem-crie-seu-pendrive-bootavel/</id>
     <published>2018-01-13T02:46:45.000Z</published>
     <updated>2021-12-09T23:44:40.141Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/multisystem/multisystem_logo.png&quot; title=&quot;Multisystem logo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;O MultiSystem é um software livre que te permite criar pendrive bootáveis do seu sistema operacional favorito, suportando GNU/Linux e Microsoft. O diferencial deste programa é a possibilidade de inserção de vários sistemas em um único dispositivo USB. Abaixo veja como realizar a instalação deste incrível programa.&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/multisystem/multisystem_logo.png&quot; title=&quot;Multisystem logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;O MultiSystem é um software livre que te permite criar pendrive bootáveis do seu sistema operacional favorito, suportando GNU&amp;#x2F;Linux e Microsoft. O diferencial deste programa é a possibilidade de inserção de vários sistemas em um único dispositivo USB. Abaixo veja como realizar a instalação deste incrível programa.&lt;/p&gt;
 &lt;h2 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h2&gt;&lt;p&gt;A sequência de comandos abaixo adiciona o repositório oficial do MultiSystem, importa a chave pública, atualiza o sistema e realiza a instalação.&lt;/p&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# echo &amp;#x27;deb http://liveusb.info/multisystem/depot all main&amp;#x27; &amp;gt; /etc/apt/sources.list&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# wget -q -O - http://liveusb.info/multisystem/depot/multisystem.asc  apt-key add -&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# apt-get update&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# apt-get install multisystem -y&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -694,46 +694,46 @@
     
     
     
-    <category term="Linux" scheme="https://opensourcesolution.github.io/site/categories/Linux/"/>
+    <category term="Linux" scheme="https://opensourcesolution.github.io/categories/Linux/"/>
     
-    <category term="Pendrive" scheme="https://opensourcesolution.github.io/site/categories/Pendrive/"/>
+    <category term="Pendrive" scheme="https://opensourcesolution.github.io/categories/Pendrive/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.github.io/site/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="virtualbox" scheme="https://opensourcesolution.github.io/site/tags/virtualbox/"/>
+    <category term="virtualbox" scheme="https://opensourcesolution.github.io/tags/virtualbox/"/>
     
-    <category term="boot" scheme="https://opensourcesolution.github.io/site/tags/boot/"/>
+    <category term="boot" scheme="https://opensourcesolution.github.io/tags/boot/"/>
     
-    <category term="livecd" scheme="https://opensourcesolution.github.io/site/tags/livecd/"/>
+    <category term="livecd" scheme="https://opensourcesolution.github.io/tags/livecd/"/>
     
-    <category term="liveusb" scheme="https://opensourcesolution.github.io/site/tags/liveusb/"/>
+    <category term="liveusb" scheme="https://opensourcesolution.github.io/tags/liveusb/"/>
     
-    <category term="pendrive" scheme="https://opensourcesolution.github.io/site/tags/pendrive/"/>
+    <category term="pendrive" scheme="https://opensourcesolution.github.io/tags/pendrive/"/>
     
-    <category term="qemu" scheme="https://opensourcesolution.github.io/site/tags/qemu/"/>
+    <category term="qemu" scheme="https://opensourcesolution.github.io/tags/qemu/"/>
     
   </entry>
   
   <entry>
     <title>Clamav - O antivírus para o seu Linux.</title>
-    <link href="https://opensourcesolution.github.io/site/clamav-o-antivirus-para-o-seu-linux/"/>
-    <id>https://opensourcesolution.github.io/site/clamav-o-antivirus-para-o-seu-linux/</id>
+    <link href="https://opensourcesolution.github.io/clamav-o-antivirus-para-o-seu-linux/"/>
+    <id>https://opensourcesolution.github.io/clamav-o-antivirus-para-o-seu-linux/</id>
     <published>2018-01-11T03:41:04.000Z</published>
     <updated>2021-12-09T23:59:34.986Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/site/images/posts/clamav/clamav_logo.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/posts/clamav/clamav_logo.png&quot;&gt;&lt;/p&gt;
 &lt;p&gt;ClamAV é um antivírus de código aberto (GPL) usado em uma variedade de situações, incluindo varredura de e-mail, web scanning e point security. Ele fornece uma série de utilitários, incluindo um daemon multi-threaded flexível e escalável, um scanner de linha de comando e uma ferramenta avançada para atualizações automáticas de banco de dados. Veja abaixo como instalar em várias distribuições.&lt;/p&gt;
 &lt;h2 id=&quot;Instalacao&quot;&gt;&lt;a href=&quot;#Instalacao&quot; class=&quot;headerlink&quot; title=&quot;Instalação&quot;&gt;&lt;/a&gt;Instalação&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Debian / Ubuntu / Mint&lt;/li&gt;
+&lt;li&gt;Debian &amp;#x2F; Ubuntu &amp;#x2F; Mint&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# apt-get update&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# apt-get install clamav&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;ul&gt;
-&lt;li&gt;RHEL / CentOS&lt;/li&gt;
+&lt;li&gt;RHEL &amp;#x2F; CentOS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# yum install -y epel-release&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# yum install -y clamav&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -743,7 +743,7 @@
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;# yum install -y clamav clamav-update&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
 &lt;ul&gt;
-&lt;li&gt;OpenSUSE &lt;/li&gt;
+&lt;li&gt;OpenSUSE&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;#  zypper install -y clamav&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
@@ -751,20 +751,20 @@
     
     
     
-    <category term="Antivírus" scheme="https://opensourcesolution.github.io/site/categories/Antivirus/"/>
+    <category term="Antivírus" scheme="https://opensourcesolution.github.io/categories/Antivirus/"/>
     
     
-    <category term="linux" scheme="https://opensourcesolution.github.io/site/tags/linux/"/>
+    <category term="linux" scheme="https://opensourcesolution.github.io/tags/linux/"/>
     
-    <category term="ubuntu" scheme="https://opensourcesolution.github.io/site/tags/ubuntu/"/>
+    <category term="ubuntu" scheme="https://opensourcesolution.github.io/tags/ubuntu/"/>
     
-    <category term="antivirus" scheme="https://opensourcesolution.github.io/site/tags/antivirus/"/>
+    <category term="antivirus" scheme="https://opensourcesolution.github.io/tags/antivirus/"/>
     
-    <category term="clamav" scheme="https://opensourcesolution.github.io/site/tags/clamav/"/>
+    <category term="clamav" scheme="https://opensourcesolution.github.io/tags/clamav/"/>
     
-    <category term="fedora" scheme="https://opensourcesolution.github.io/site/tags/fedora/"/>
+    <category term="fedora" scheme="https://opensourcesolution.github.io/tags/fedora/"/>
     
-    <category term="virus" scheme="https://opensourcesolution.github.io/site/tags/virus/"/>
+    <category term="virus" scheme="https://opensourcesolution.github.io/tags/virus/"/>
     
   </entry>
   
